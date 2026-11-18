@@ -1,6 +1,8 @@
 # ProofRAG
 
 
+
+
 Support teams answer the same questions again and again. The answers are already written down somewhere, in a help doc, a policy PDF, an FAQ page. Finding the right one takes time, and a normal chatbot is worse, because when it does not know the answer it just makes one up.
 
 ProofRAG is my attempt at fixing that. You give it company documents. It answers questions only from those documents, and it shows the source with every answer. If the answer is not in the documents, it says so, or passes the question to a human. It does not guess.
@@ -18,6 +20,9 @@ Phase 1. Basic pipeline. Load documents, chunk them, store embeddings, retrieve,
 
 ## Tech I plan to use
 Python, LangChain, Chroma first and Pinecone or pgvector later, FastAPI, Docker, AWS. I will change this list if something does not earn its place.
+
+# Data Source 
+- Notion Help Center
 
 ## Honest notes
 The numbers section will stay empty until the evaluation phase is actually done. I would rather show real measured results late than invent good looking ones early.
