@@ -1,4 +1,3 @@
 data/raw/
 .env
-data/faiss_index 
-.env
+data/faiss_index/
