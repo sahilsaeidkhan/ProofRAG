@@ -1,0 +1,522 @@
+[
+  {
+    "expected_source": "sharing-and-permissions.md",
+    "question": "How do I share a page with a guest?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "change-your-plan.md",
+    "question": "How can I change my Notion plan?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "billing.md",
+    "question": "Where can I see and update my billing information?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "notion-ai-faqs.md",
+    "question": "What is Notion AI?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "import-data.md",
+    "question": "How do I import a CSV file into Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "export-content.md",
+    "question": "How do I export my workspace content?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "relations-and-rollups.md",
+    "question": "What are rollups in a Notion database?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "database-automations.md",
+    "question": "How do database automations work?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "reminders.md",
+    "question": "How can I set a reminder in Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "search-in-notion.md",
+    "question": "How do I search for a page in Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "keyboard-shortcuts.md",
+    "question": "What keyboard shortcuts are available in Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "notion-sites-publishing.md",
+    "question": "How do I publish a page as a website?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "comments-and-mentions.md",
+    "question": "How do comments and mentions work in Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "wikis.md",
+    "question": "What is a wiki in Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "forms.md",
+    "question": "How do I create a form in Notion?",
+    "type": "direct"
+  },
+  {
+    "expected_source": "sharing-and-permissions.md",
+    "question": "How do I let someone outside my company see one of my pages?",
+    "type": "reworded"
+  },
+  {
+    "expected_source": "change-your-plan.md",
+    "question": "I want to pay for a better plan, where do I do that?",
+    "type": "reworded"
+  },
+  {
+    "expected_source": "import-data.md",
+    "question": "Can I bring my data from another app into Notion?",
+    "type": "reworded"
+  },
+  {
+    "expected_source": "relations-and-rollups.md",
+    "question": "How can I make two databases talk to each other?",
+    "type": "reworded"
+  },
+  {
+    "expected_source": "reminders.md",
+    "question": "Is there a way to get notified about a deadline in Notion?",
+    "type": "reworded"
+  },
+  {
+    "expected_source": null,
+    "question": "Who is the CEO of Notion?",
+    "type": "unanswerable"
+  },
+  {
+    "expected_source": null,
+    "question": "What is the weather in Delhi today?",
+    "type": "unanswerable"
+  },
+  {
+    "expected_source": null,
+    "question": "How do I use formulas in Excel?",
+    "type": "unanswerable"
+  },
+  {
+    "expected_source": null,
+    "question": "When was Notion founded?",
+    "type": "unanswerable"
+  },
+  {
+    "expected_source": null,
+    "question": "Can I invest in Notion stock?",
+    "type": "unanswerable"
+  },
+  {
+    "question": "What is the difference between the Can edit and Can comment permission levels in Notion?",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "direct"
+  },
+  {
+    "question": "How can I remove someone's access to a page I shared?",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "direct"
+  },
+  {
+    "question": "How can I tell who else has access to a page I am viewing?",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "direct"
+  },
+  {
+    "question": "What happens to my bill if I upgrade my plan in the middle of a billing period?",
+    "expected_source": "change-your-plan.md",
+    "type": "direct"
+  },
+  {
+    "question": "How many days do I have to request a full refund after signing up for annual billing?",
+    "expected_source": "change-your-plan.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I change my billing interval from monthly to yearly?",
+    "expected_source": "billing.md",
+    "type": "direct"
+  },
+  {
+    "question": "What happens to my paid seats when I remove members from my workspace?",
+    "expected_source": "billing.md",
+    "type": "direct"
+  },
+  {
+    "question": "How can a workspace owner turn off web search for Notion AI?",
+    "expected_source": "notion-ai-faqs.md",
+    "type": "direct"
+  },
+  {
+    "question": "What are the Notion AI image generation limits per user?",
+    "expected_source": "notion-ai-faqs.md",
+    "type": "direct"
+  },
+  {
+    "question": "Which file types can I import directly into Notion?",
+    "expected_source": "import-data.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I import a Trello board into Notion?",
+    "expected_source": "import-data.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I export a single Notion page as a PDF?",
+    "expected_source": "export-content.md",
+    "type": "direct"
+  },
+  {
+    "question": "How long can a full workspace export take to process, and how long does the download link stay valid?",
+    "expected_source": "export-content.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I make a relation between two databases work in both directions?",
+    "expected_source": "relations-and-rollups.md",
+    "type": "direct"
+  },
+  {
+    "question": "Can I use a rollup on another rollup?",
+    "expected_source": "relations-and-rollups.md",
+    "type": "direct"
+  },
+  {
+    "question": "What types of triggers can I use in a database automation?",
+    "expected_source": "database-automations.md",
+    "type": "direct"
+  },
+  {
+    "question": "Can one database automation trigger another database automation?",
+    "expected_source": "database-automations.md",
+    "type": "direct"
+  },
+  {
+    "question": "What happens to a database automation when it runs into an error, and how do I turn it back on?",
+    "expected_source": "database-automations.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I create a reminder for another person on my team?",
+    "expected_source": "reminders.md",
+    "type": "direct"
+  },
+  {
+    "question": "Can I set a reminder that repeats every week in Notion?",
+    "expected_source": "reminders.md",
+    "type": "direct"
+  },
+  {
+    "question": "What options do I have for sorting search results in Notion?",
+    "expected_source": "search-in-notion.md",
+    "type": "direct"
+  },
+  {
+    "question": "What kinds of content are not included in Notion search results?",
+    "expected_source": "search-in-notion.md",
+    "type": "direct"
+  },
+  {
+    "question": "Which shortcut duplicates the blocks I have selected?",
+    "expected_source": "keyboard-shortcuts.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I switch between dark mode and light mode using the keyboard?",
+    "expected_source": "keyboard-shortcuts.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I take a published Notion Site off the web?",
+    "expected_source": "notion-sites-publishing.md",
+    "type": "direct"
+  },
+  {
+    "question": "Can I protect a published Notion page with a password?",
+    "expected_source": "notion-sites-publishing.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I mark a comment as resolved?",
+    "expected_source": "comments-and-mentions.md",
+    "type": "direct"
+  },
+  {
+    "question": "What happens when I mention someone on a page they do not have access to?",
+    "expected_source": "comments-and-mentions.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I turn an existing page into a wiki?",
+    "expected_source": "wikis.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I verify a page inside a wiki?",
+    "expected_source": "wikis.md",
+    "type": "direct"
+  },
+  {
+    "question": "How can I share a form so that people outside my workspace can fill it out?",
+    "expected_source": "forms.md",
+    "type": "direct"
+  },
+  {
+    "question": "Where do the responses to a form get stored?",
+    "expected_source": "forms.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I add a new property to a database that already has properties?",
+    "expected_source": "database-properties.md",
+    "type": "direct"
+  },
+  {
+    "question": "What is the maximum number of properties a single database can have?",
+    "expected_source": "database-properties.md",
+    "type": "direct"
+  },
+  {
+    "question": "What layout options are available for viewing a database?",
+    "expected_source": "database-views-filters-sorts.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I group the items in a database view by a property?",
+    "expected_source": "database-views-filters-sorts.md",
+    "type": "direct"
+  },
+  {
+    "question": "What sections does the Notion sidebar contain?",
+    "expected_source": "intro-to-workspaces.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I add a page to my Favorites in the sidebar?",
+    "expected_source": "intro-to-workspaces.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I create a new internal connection for the Notion API?",
+    "expected_source": "notion-api-integrations.md",
+    "type": "direct"
+  },
+  {
+    "question": "Who is allowed to create integrations in a Notion workspace?",
+    "expected_source": "notion-api-integrations.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I let colleagues book a meeting with me through Notion Calendar?",
+    "expected_source": "notion-calendar.md",
+    "type": "direct"
+  },
+  {
+    "question": "Which calendar services can Notion Calendar sync with?",
+    "expected_source": "notion-calendar.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I add a template from the Marketplace to my workspace?",
+    "expected_source": "start-with-a-template.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I delete one of the starter templates from my sidebar?",
+    "expected_source": "start-with-a-template.md",
+    "type": "direct"
+  },
+  {
+    "question": "What is a restricted member, and how are they different from a regular member?",
+    "expected_source": "whos-who-in-a-workspace.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I remove a member or a guest from my workspace?",
+    "expected_source": "whos-who-in-a-workspace.md",
+    "type": "direct"
+  },
+  {
+    "question": "How do I permanently delete my entire workspace?",
+    "expected_source": "workspace-settings.md",
+    "type": "direct"
+  },
+  {
+    "question": "How can I change the name and icon of my workspace?",
+    "expected_source": "workspace-settings.md",
+    "type": "direct"
+  },
+  {
+    "question": "What actions can I take from the menu of the handle icon next to a block?",
+    "expected_source": "writing-and-editing-basics.md",
+    "type": "direct"
+  },
+  {
+    "question": "How can I see the word count for part of a page?",
+    "expected_source": "writing-and-editing-basics.md",
+    "type": "direct"
+  },
+  {
+    "question": "My teammate can see the doc I shared with her but she can't change anything in it. How do I let her edit it?",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "reworded"
+  },
+  {
+    "question": "I shared a page with my team earlier, but now I want it to be visible only to me. How do I do that?",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "reworded"
+  },
+  {
+    "question": "We added three people to our paid workspace in the middle of the month. Will we be charged for the full month for them?",
+    "expected_source": "billing.md",
+    "type": "reworded"
+  },
+  {
+    "question": "My card payment for Notion failed. What happens to my workspace now?",
+    "expected_source": "change-your-plan.md",
+    "type": "reworded"
+  },
+  {
+    "question": "All my notes are in Word files on my laptop. Can I move them into Notion?",
+    "expected_source": "import-data.md",
+    "type": "reworded"
+  },
+  {
+    "question": "I downloaded my export as a ZIP file but Windows refuses to open it. What should I do?",
+    "expected_source": "export-content.md",
+    "type": "reworded"
+  },
+  {
+    "question": "I want one column that shows the total amount each customer has spent with us. How do I get that?",
+    "expected_source": "relations-and-rollups.md",
+    "type": "reworded"
+  },
+  {
+    "question": "Can Notion assign a task to someone automatically when its status changes?",
+    "expected_source": "database-automations.md",
+    "type": "reworded"
+  },
+  {
+    "question": "When the time for my reminder comes, how will Notion actually let me know?",
+    "expected_source": "reminders.md",
+    "type": "reworded"
+  },
+  {
+    "question": "Search keeps matching random words inside pages. I only want it to match page titles. Is that possible?",
+    "expected_source": "search-in-notion.md",
+    "type": "reworded"
+  },
+  {
+    "question": "Can people who don't have a Notion account fill out my form?",
+    "expected_source": "forms.md",
+    "type": "reworded"
+  },
+  {
+    "question": "I'd like to see all my project tasks laid out on a calendar instead of a list. How do I do that?",
+    "expected_source": "database-views-filters-sorts.md",
+    "type": "reworded"
+  },
+  {
+    "question": "Starting every page from a blank screen is slow. Is there ready-made content I can begin with?",
+    "expected_source": "start-with-a-template.md",
+    "type": "reworded"
+  },
+  {
+    "question": "We have an intern who only needs to see two specific pages and nothing else in the workspace. What's the best way to add her?",
+    "expected_source": "whos-who-in-a-workspace.md",
+    "type": "reworded"
+  },
+  {
+    "question": "How do I stop anyone from changing a really important page by accident?",
+    "expected_source": "intro-to-workspaces.md",
+    "type": "reworded"
+  },
+  {
+    "question": "How much revenue did Notion earn last year?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "Who are the founders of Notion?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "What is the exact monthly price of the Notion Plus plan per user?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "Can I pay for my Notion plan using PayPal?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "How do I connect Notion with Microsoft Teams?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "Does Notion have a built-in video calling feature for meetings?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "How do I reset the password for my Notion account?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "Which AI model does Notion AI use to answer questions?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "Can I use Notion completely offline without an internet connection?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "How do I change the display language of the Notion app itself?",
+    "expected_source": null,
+    "type": "unanswerable"
+  },
+  {
+    "question": "how to share file in notio with my friend",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "typo"
+  },
+  {
+    "question": "how to share file in notion with my friend",
+    "expected_source": "sharing-and-permissions.md",
+    "type": "reworded"
+  },
+  {
+    "question": "How do I import a CSV file into Noton?",
+    "expected_source": "import-data.md",
+    "type": "typo"
+  },
+  {
+    "question": "How can I set a remnder in Notion?",
+    "expected_source": "reminders.md",
+    "type": "typo"
+  }
+]

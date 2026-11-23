@@ -17,7 +17,7 @@ RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 CHUNK_SIZE = 500
 CHUNK_OVERLAP = 100
 
-TOP_K = 3
+TOP_K = 5
 THRESHOLD = 0.45
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
