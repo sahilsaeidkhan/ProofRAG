@@ -1,0 +1,683 @@
+Q1 [direct] How do I share a page with a guest?
+  expected: sharing-and-permissions.md | status: answered | score: 0.67 | corrected: None
+  A: 1. Click **Share** at the top of the page.  
+2. In the sharing dialog, enter the guest’s email address (they’re not in your workspace).  
+3. Open the dropdown next to the entered name and choose the desired permission level.  
+4. Click **Invite**.  
+
+*(If the email address belongs to one of your organization’s domains, the person will be added as a member rather than a guest.)*
+
+Q2 [direct] How can I change my Notion plan?
+  expected: change-your-plan.md | status: answered | score: 0.66 | corrected: None
+  A: To change your Notion plan:
+
+1. In the sidebar, click **Settings → Billing → Change plan**.  
+2. Select the plan you want to move to.  
+3. Click **Continue**.  
+4. Provide any feedback requested, then click **Downgrade** (or confirm the change).  
+5. You’ll receive a confirmation of the change and see when your current plan ends.
+
+Q3 [direct] Where can I see and update my billing information?
+  expected: billing.md | status: escalated_low_confidence | score: 0.37 | corrected: None
+  A: I don't have this information in the documents.
+
+Q4 [direct] What is Notion AI?
+  expected: notion-ai-faqs.md | status: answered | score: 0.78 | corrected: None
+  A: Notion AI is an integrated, built‑in teammate within your Notion workspace that can answer questions, edit reports, build task databases, and perform many other tasks by leveraging information from your Notion pages, connected apps (via Notion AI Connectors like Slack or Google Drive), and the web, all without needing to switch to other tools.
+
+Q5 [direct] How do I import a CSV file into Notion?
+  expected: import-data.md | status: answered | score: 0.72 | corrected: None
+  A: **To import a CSV file into Notion:**
+
+1. **Open the Import dialog**  
+   - Go to **Settings → Import → CSV** in the sidebar, **or** type **`/csv`** in any page and select the CSV option.
+
+2. **Upload your CSV file**  
+   - Click **Upload** and choose the **.csv** file you want to bring in.
+
+3. **Choose where the data goes**  
+   - Decide whether to **create a new database** or **import the data into an existing database**.
+
+4. **Select the import location**  
+   - Pick the page or database where the new data should appear.
+
+5. **Map the columns**  
+   - For each CSV column, match it to the appropriate Notion property (e.g., Title, Text, Number, etc.).  
+
+   - Confirm the mappings and finish the import.
+
+**Alternative method (if you’re already inside a database):**
+
+1. While viewing a full‑page database, click the **•••** (three‑dot) menu at the top.  
+2. Choose **“Merge with CSV.”**  
+3. Upload the CSV and map its columns to the existing database’s properties.
+
+After completing these steps, the CSV rows become Notion pages and the columns become properties in the database.
+
+Q6 [direct] How do I export my workspace content?
+  expected: export-content.md | status: answered | score: 0.62 | corrected: None
+  A: To export your workspace content:
+
+1. Open **Settings** from the sidebar.  
+2. Under **Workspace**, choose **General**.  
+3. Click **Export all workspace content**.  
+4. Notion will email you a download link (valid for 7 days).  
+
+*Note: Exports can take up to 30 hours to process and are only available on desktop or web.*
+
+Q7 [direct] What are rollups in a Notion database?
+  expected: relations-and-rollups.md | status: answered | score: 0.47 | corrected: None
+  A: Rollups are a database feature that lets you view and aggregate information from properties of related items. By using a relation, a rollup can summarize interconnected data—such as totals, counts, or other aggregates—based on those relationships.
+
+Q8 [direct] How do database automations work?
+  expected: database-automations.md | status: answered | score: 0.73 | corrected: None
+  A: Database automations are sequences of actions that run whenever a specific change occurs in a database. They consist of **triggers** (the events that start the automation) and **actions** (what the automation does). When a change happens, the automation operates within a three‑second window—if the trigger is removed or the change is deleted within that time, the automation won’t fire. You can set an automation to run on pages in the entire database or only on pages that appear in a particular view (and it will adjust if the view’s filters change). Automations are created via the ⚡ button at the top of a database, where you add triggers and actions, then save the automation. Guests with full access cannot create automations.
+
+Q9 [direct] How can I set a reminder in Notion?
+  expected: reminders.md | status: answered | score: 0.77 | corrected: None
+  A: To set a reminder in Notion, you can:
+
+1. **Use the @‑remind command**  
+   - In any page, type `@remind` followed by the date and time you want to be reminded, then add the reminder text.  
+   - Example: `@remind tomorrow 9 am to submit the report`.
+
+2. **Add a reminder via a Date property (in a database)**  
+   - Click the **Date** property for the page or database item.  
+   - In the calendar window that opens, set the date, choose a specific time, and specify how far in advance you want the reminder (e.g., 30 minutes before).  
+
+3. **Remind someone else**  
+   - Combine an @‑mention with @‑remind on the same line.  
+   - Example: `@Camille Ricketts @remind next Thursday 4 pm to finish proofreading`.
+
+When the reminder time arrives, Notion will send you (or the mentioned person) a notification.
+
+Q10 [direct] How do I search for a page in Notion?
+  expected: search-in-notion.md | status: refused_by_model | score: 0.76 | corrected: None
+  A: I don't have this information in the documents.
+
+Q11 [direct] What keyboard shortcuts are available in Notion?
+  expected: keyboard-shortcuts.md | status: answered | score: 0.71 | corrected: None
+  A: Based on the provided documents, Notion includes the following keyboard shortcuts:
+
+- **Shift + Cmd/Ctrl + J** – Opens Notion AI (this works even when you’re not inside the Notion app).  
+- **Customizable shortcut for Notion AI** – You can change the above shortcut in **Settings → Preferences** by entering a new key combination next to “Keyboard shortcut for Notion AI.”  
+- **Command Search shortcut** – A customizable shortcut (the exact keys aren’t listed in the document) that lets you trigger Command Search from anywhere on your computer, allowing you to search or ask Notion AI without switching to the Notion window.  
+
+These are the only specific shortcuts mentioned in the given context.
+
+Q12 [direct] How do I publish a page as a website?
+  expected: notion-sites-publishing.md | status: escalated_low_confidence | score: 0.43 | corrected: None
+  A: I don't have this information in the documents.
+
+Q13 [direct] How do comments and mentions work in Notion?
+  expected: comments-and-mentions.md | status: answered | score: 0.69 | corrected: None
+  A: In Notion, comments and mentions let you collaborate asynchronously.
+
+**Mentions**  
+- You can mention anyone in your workspace anywhere in a page, database, comment, or discussion.  
+- To mention someone, type **@** followed by the person’s or group’s name; a real‑time search menu appears, and you press Enter to select the person.
+
+**Comments**  
+- You can start a discussion or give high‑level feedback by leaving a comment at the top of a page.  
+- You can also comment on specific parts of a page.  
+- In database views (e.g., table view) or on a database page, you can comment directly on a property by hovering over the property and clicking the 💬 icon.
+
+Together, comments and mentions let you ask questions, offer opinions, and draw attention to content for other collaborators.
+
+Q14 [direct] What is a wiki in Notion?
+  expected: wikis.md | status: answered | score: 0.57 | corrected: None
+  A: A wiki in Notion is a regular page that you convert into a “wiki” to centralize, organize, and easily maintain important information, making it simple to find and update knowledge across your team. (Only pages—not databases—can be turned into wikis.)
+
+Q15 [direct] How do I create a form in Notion?
+  expected: forms.md | status: answered | score: 0.63 | corrected: None
+  A: To create a form in Notion, use the desktop or web app (forms can’t be created on mobile). From a database, select the option to **create a new form**—each question you add will be linked to a property in that database, so responses are stored right alongside the rest of your data. If you’re using a form that came from a duplicated template, be sure to set up a fresh version of the form so the responses go to your workspace rather than the original creator’s.
+
+Q16 [reworded] How do I let someone outside my company see one of my pages?
+  expected: sharing-and-permissions.md | status: answered | score: 0.52 | corrected: None
+  A: To give someone outside your company access to a page, share it with them as a guest:
+
+1. Open the page and click **Share** at the top.  
+2. In the sharing panel, enter the person’s email address (they don’t need to be in your workspace).  
+3. Choose the desired permission level from the dropdown next to their name.  
+4. Click **Invite**.
+
+The person will receive an invitation and can view the page as a guest. If their email is on one of your organization’s domains, they’ll be added as a member instead of a guest.
+
+Q17 [reworded] I want to pay for a better plan, where do I do that?
+  expected: change-your-plan.md | status: escalated_low_confidence | score: 0.34 | corrected: None
+  A: I don't have this information in the documents.
+
+Q18 [reworded] Can I bring my data from another app into Notion?
+  expected: import-data.md | status: answered | score: 0.54 | corrected: None
+  A: Yes. Notion lets you import docs, notes, and spreadsheets from other apps so you can keep everything in one place. The import feature is available on desktop and web. To start, go to Settings → Import or type “/” on any page and select the appropriate importer.
+
+Q19 [reworded] How can I make two databases talk to each other?
+  expected: relations-and-rollups.md | status: answered | score: 0.58 | corrected: None
+  A: Create a **Relation** property that links the two databases.  
+1. In one database, add a new property and set its type to **Relation**.  
+2. Search for and select the other database you want to connect to.  
+3. The relation will appear as “This database” in the second database.  
+4. If you want the connection to be two‑way (so each side shows the link), toggle the two‑way relation on; otherwise leave it off to use a single property.  
+
+By establishing this relation property, the two separate databases can reference each other and share information such as which customers bought which items and vice‑versa.
+
+Q20 [reworded] Is there a way to get notified about a deadline in Notion?
+  expected: reminders.md | status: escalated_failed_verification | score: 0.49 | corrected: None
+  A: I don't have this information in the documents.
+
+Q21 [unanswerable] Who is the CEO of Notion?
+  expected: None | status: escalated_low_confidence | score: 0.37 | corrected: None
+  A: I don't have this information in the documents.
+
+Q22 [unanswerable] What is the weather in Delhi today?
+  expected: None | status: escalated_low_confidence | score: -0.13 | corrected: None
+  A: I don't have this information in the documents.
+
+Q23 [unanswerable] How do I use formulas in Excel?
+  expected: None | status: escalated_low_confidence | score: 0.23 | corrected: None
+  A: I don't have this information in the documents.
+
+Q24 [unanswerable] When was Notion founded?
+  expected: None | status: escalated_low_confidence | score: 0.42 | corrected: None
+  A: I don't have this information in the documents.
+
+Q25 [unanswerable] Can I invest in Notion stock?
+  expected: None | status: escalated_low_confidence | score: 0.39 | corrected: None
+  A: I don't have this information in the documents.
+
+Q26 [direct] What is the difference between the Can edit and Can comment permission levels in Notion?
+  expected: sharing-and-permissions.md | status: answered | score: 0.45 | corrected: None
+  A: **Can edit** lets the user modify (edit) the content of the page or form responses after they’ve been submitted.  
+
+**Can comment** only permits the user to add comments on the page; they cannot edit the content or share it.
+
+Q27 [direct] How can I remove someone's access to a page I shared?
+  expected: sharing-and-permissions.md | status: answered | score: 0.65 | corrected: None
+  A: To remove someone’s access to a page you’ve shared:
+
+1. Open the page and click **Share** at the top.  
+2. In the Share panel, locate the workspace, group, or individual who currently has access.  
+3. Open the dropdown next to their name and choose **Remove**.
+
+(You can also drag the page into your **Private** section in the sidebar; this will remove everyone else’s access to that page.)
+
+Q28 [direct] How can I tell who else has access to a page I am viewing?
+  expected: sharing-and-permissions.md | status: answered | score: 0.51 | corrected: None
+  A: You can see the profile photos of everyone who has access in the bar at the very top of the page. Hover over those photos to view the full list of users, along with their names and email addresses.
+
+Q29 [direct] What happens to my bill if I upgrade my plan in the middle of a billing period?
+  expected: change-your-plan.md | status: answered | score: 0.77 | corrected: None
+  A: If you upgrade in the middle of a billing period, the new plan takes effect immediately and starts a new billing cycle. You’re charged right away for the new plan, but the amount you owe is reduced by a prorated credit for the time remaining on your current plan’s billing period.
+
+Q30 [direct] How many days do I have to request a full refund after signing up for annual billing?
+  expected: change-your-plan.md | status: escalated_low_confidence | score: 0.30 | corrected: None
+  A: I don't have this information in the documents.
+
+Q31 [direct] How do I change my billing interval from monthly to yearly?
+  expected: billing.md | status: answered | score: 0.62 | corrected: None
+  A: To switch from monthly to yearly billing:
+
+1. Open **Settings** in the sidebar.  
+2. Click **Billing** in the sidebar of the window that appears.  
+3. Next to your current billing interval, choose **Edit period**.  
+4. Review the new billing details and the estimate for your next bill.  
+5. If everything looks correct, click **Confirm changes**.  
+
+Q32 [direct] What happens to my paid seats when I remove members from my workspace?
+  expected: billing.md | status: answered | score: 0.78 | corrected: None
+  A: When you remove members, you keep any paid seats you already have for the rest of the current billing interval. You can re‑assign those open seats to other users at no extra charge during that period. There’s no proration or credit for the removal; the reduced seat count is only reflected in your next billing cycle, when we recalculate and bill you based on the number of paid seats actually in use.
+
+Q33 [direct] How can a workspace owner turn off web search for Notion AI?
+  expected: notion-ai-faqs.md | status: answered | score: 0.78 | corrected: None
+  A: A workspace owner can disable web search for Notion AI by going to **Settings → Notion AI** and, under **AI Web Search**, toggling off **Enable web search for workspace**.
+
+Q34 [direct] What are the Notion AI image generation limits per user?
+  expected: notion-ai-faqs.md | status: escalated_low_confidence | score: 0.42 | corrected: None
+  A: I don't have this information in the documents.
+
+Q35 [direct] Which file types can I import directly into Notion?
+  expected: import-data.md | status: answered | score: 0.65 | corrected: None
+  A: You can import the following file types directly into Notion:
+
+- Plaintext (.txt)  
+- Text & Markdown (.txt, .md, .markdown)  
+- Microsoft Word (.docx)  
+- CSV (.csv)  
+- HTML (.html)  
+- PDF (.pdf)  
+- ZIP (.zip)
+
+Q36 [direct] How do I import a Trello board into Notion?
+  expected: import-data.md | status: answered | score: 0.68 | corrected: None
+  A: 1. In Notion’s sidebar open **Settings → Import → Third‑party imports → Trello** (or type **/Trello** in a page and pick the Import option).  
+2. Sign in to your Trello account and grant Notion permission to access it.  
+3. After the accounts are linked, choose the board(s) you want to migrate from the dropdown menu.  
+4. Pick where the board should go – a teamspace, a private space, or an existing Notion database – and confirm the import.  
+
+Q37 [direct] How do I export a single Notion page as a PDF?
+  expected: export-content.md | status: answered | score: 0.74 | corrected: None
+  A: 1. Open the Notion page you want to export.  
+2. Tap the **•••** icon at the upper‑right corner of the page.  
+3. Choose **Export** from the menu that appears.  
+4. In the export window that pops up, select **PDF** from the “Format” dropdown.  
+5. (Optional) In the **Include content** dropdown, decide whether to export everything or exclude files and images.  
+6. Choose the desired page format (paper size) and, if needed, adjust the **Scale** percentage.  
+7. Confirm the export and the PDF of that single page will be downloaded.
+
+Q38 [direct] How long can a full workspace export take to process, and how long does the download link stay valid?
+  expected: export-content.md | status: answered | score: 0.58 | corrected: None
+  A: A full workspace export may take **up to 30 hours** to process, and the download link you receive is valid for **7 days**.
+
+Q39 [direct] How do I make a relation between two databases work in both directions?
+  expected: relations-and-rollups.md | status: answered | score: 0.71 | corrected: None
+  A: Enable a corresponding relation in the other database—add a Relation property there and toggle on the matching relation. This creates the two‑way (bidirectional) link between the two databases.
+
+Q40 [direct] Can I use a rollup on another rollup?
+  expected: relations-and-rollups.md | status: answered | score: 0.73 | corrected: None
+  A: No—you can’t roll up a rollup. Doing so could create unintended loops, so you should stick to rolling up other properties.
+
+Q41 [direct] What types of triggers can I use in a database automation?
+  expected: database-automations.md | status: refused_by_model | score: 0.55 | corrected: None
+  A: I don't have this information in the documents.
+
+Q42 [direct] Can one database automation trigger another database automation?
+  expected: database-automations.md | status: answered | score: 0.52 | corrected: None
+  A: No. Database automations cannot be triggered by other automations.
+
+Q43 [direct] What happens to a database automation when it runs into an error, and how do I turn it back on?
+  expected: database-automations.md | status: answered | score: 0.48 | corrected: None
+  A: When a database automation hits an error after it has run successfully before, Notion automatically **pauses** the automation.
+
+To use it again you must:
+
+1. Fix the error (you can click the error notification to jump straight to the broken automation).  
+2. After the fix, manually **un‑pause** the automation:  
+   - Open the database, click **••• → Automations**.  
+   - Hover over the automation you just fixed, click **•••** again, and toggle **Active** on.
+
+Q44 [direct] How do I create a reminder for another person on my team?
+  expected: reminders.md | status: answered | score: 0.48 | corrected: None
+  A: Use an @‑mention together with @remind on the same line. For example:
+
+```
+@Camille Ricketts @remind next Thursday 4 pm to finish proofreading
+```
+
+Q45 [direct] Can I set a reminder that repeats every week in Notion?
+  expected: reminders.md | status: answered | score: 0.75 | corrected: None
+  A: No. Notion does not currently support recurring reminders. They are on the roadmap, but you can’t set a reminder that repeats every week right now.
+
+Q46 [direct] What options do I have for sorting search results in Notion?
+  expected: search-in-notion.md | status: refused_by_model | score: 0.49 | corrected: None
+  A: I don't have this information in the documents.
+
+Q47 [direct] What kinds of content are not included in Notion search results?
+  expected: search-in-notion.md | status: answered | score: 0.60 | corrected: None
+  A: Any content inside a page (the body text) isn’t considered in Notion search results when you’re using the “Title only” filter.
+
+Q48 [direct] Which shortcut duplicates the blocks I have selected?
+  expected: keyboard-shortcuts.md | status: escalated_low_confidence | score: 0.31 | corrected: None
+  A: I don't have this information in the documents.
+
+Q49 [direct] How do I switch between dark mode and light mode using the keyboard?
+  expected: keyboard-shortcuts.md | status: escalated_low_confidence | score: 0.25 | corrected: None
+  A: I don't have this information in the documents.
+
+Q50 [direct] How do I take a published Notion Site off the web?
+  expected: notion-sites-publishing.md | status: answered | score: 0.68 | corrected: None
+  A: To take your Notion Site off the web:
+
+1. Open the page you want to unpublish and select **Share** at the top.  
+2. Open the **Publish** tab.  
+3. Select **Unpublish**.
+
+Q51 [direct] Can I protect a published Notion page with a password?
+  expected: notion-sites-publishing.md | status: answered | score: 0.71 | corrected: None
+  A: No. Currently you cannot password‑protect a published Notion page.
+
+Q52 [direct] How do I mark a comment as resolved?
+  expected: comments-and-mentions.md | status: answered | score: 0.56 | corrected: None
+  A: Hover over the comment and click the ✔️ (check‑mark) button to resolve it.
+
+Q53 [direct] What happens when I mention someone on a page they do not have access to?
+  expected: comments-and-mentions.md | status: escalated_low_confidence | score: 0.35 | corrected: None
+  A: I don't have this information in the documents.
+
+Q54 [direct] How do I turn an existing page into a wiki?
+  expected: wikis.md | status: answered | score: 0.62 | corrected: None
+  A: To turn an existing page into a wiki:
+
+1. Click the ••• menu at the top of the page and choose **More**.  
+2. Select **Turn into wiki**.
+
+Q55 [direct] How do I verify a page inside a wiki?
+  expected: wikis.md | status: answered | score: 0.73 | corrected: None
+  A: To verify a page inside a wiki:
+
+1. Open a wiki page that you own.  
+2. Click on the **Verification** section at the top of the page.  
+3. Choose whether you want to verify the page until a specific time or verify it indefinitely.
+
+Q56 [direct] How can I share a form so that people outside my workspace can fill it out?
+  expected: forms.md | status: answered | score: 0.55 | corrected: None
+  A: To let someone who isn’t a member of your workspace fill out a form, you need to give that person guest access to the database the form is connected to and then share the form’s link with them.
+
+1. **Invite the external person as a guest**  
+   - Go to **Share** at the top of the page (or database).  
+   - Enter the person’s email address. If the email isn’t on one of your organization’s domains, they’ll be added as a **guest**.  
+   - In the dropdown next to their name, grant them at least **View** permission on the database (this lets them access the form).
+
+2. **Copy and share the form URL**  
+   - With at least View access to the database, you can copy the form’s link (via the **Share** menu).  
+   - Send that link to the guest.
+
+Because guests can only fill out the form if they have been given access to the underlying database, granting them guest access and then sharing the link is the way to allow people outside your workspace to submit the form. (Note: Workspace owners on the Enterprise plan can disable web‑sharing, so ensure that setting isn’t blocking external access.)
+
+Q57 [direct] Where do the responses to a form get stored?
+  expected: forms.md | status: answered | score: 0.53 | corrected: None
+  A: By default, the responses are saved in a Table view of the connected database called **Responses**.
+
+Q58 [direct] How do I add a new property to a database that already has properties?
+  expected: database-properties.md | status: answered | score: 0.83 | corrected: None
+  A: To add a new property to a database that already has properties:
+
+1. **Using the + button**  
+   - Click the **+** next to the right‑most property.  
+   - Enter a name for the new property and choose its property type.
+
+2. **Using Insert in Table view**  
+   - In table view, click an existing property.  
+   - Choose **Insert left** or **Insert right** depending on where you want the new property to appear.  
+   - Enter a name for the new property and select its property type.
+
+Q59 [direct] What is the maximum number of properties a single database can have?
+  expected: database-properties.md | status: answered | score: 0.60 | corrected: None
+  A: A single database can have up to **500 properties**.
+
+Q60 [direct] What layout options are available for viewing a database?
+  expected: database-views-filters-sorts.md | status: answered | score: 0.52 | corrected: None
+  A: The available layout options for viewing a database are:
+
+- Table view  
+- Board view  
+- Gallery view  
+- List view  
+- Calendar view
+
+Q61 [direct] How do I group the items in a database view by a property?
+  expected: database-views-filters-sorts.md | status: answered | score: 0.59 | corrected: None
+  A: 1. Open the settings menu at the top of the database.  
+2. In the menu that appears, select **Group** under **View settings**.  
+3. Choose the property you want to group the items by.
+
+Q62 [direct] What sections does the Notion sidebar contain?
+  expected: intro-to-workspaces.md | status: answered | score: 0.53 | corrected: None
+  A: The Notion sidebar is divided into the following sections:
+
+- **Teamspace** – for collaborative pages when you’re on a paid plan.  
+- **Shared** – pages you and selected others in your workspace can access.  
+- **Private** – pages that only you can see.  
+- **Favorites** – pages you’ve marked as favorites for quick reference.
+
+Q63 [direct] How do I add a page to my Favorites in the sidebar?
+  expected: intro-to-workspaces.md | status: answered | score: 0.61 | corrected: None
+  A: Navigate to the page you want to favorite, then click the ⭐ icon at the top of the page. The page will then appear under **Favorites** in your sidebar.
+
+Q64 [direct] How do I create a new internal connection for the Notion API?
+  expected: notion-api-integrations.md | status: answered | score: 0.81 | corrected: None
+  A: To set up a new internal connection with the Notion API, follow the app‑setup flow provided by Notion:
+
+1. **Start the app‑setup process** – begin creating your integration in Notion’s developer portal.  
+2. **Choose the workspace** you want the connection to link to. Notion will automatically connect the integration to that workspace; you don’t need to create a separate workspace connection.  
+3. **Select the required access level** for the integration. During setup you can specify:  
+   * **Content capabilities** – Read content only, Write content only, or Insert content.  
+   * **User capabilities** – No user information, Read user info (without email), or Read user info (including email).  
+4. **Configure additional options** as needed, such as:  
+   * Sharing data to improve Notion AI.  
+   * Enabling AI Connectors for third‑party apps.  
+   * Turning on AI Web Search or requiring confirmation for web requests.  
+5. **Save the connection** – the settings you chose are applied when the connection is created.  
+
+If you later need a different configuration, you must create a new connection (the original settings cannot be changed). Only connections that are open for anyone to install appear in the connections gallery; those limited to selected workspaces do not.
+
+Q65 [direct] Who is allowed to create integrations in a Notion workspace?
+  expected: notion-api-integrations.md | status: refused_by_model | score: 0.55 | corrected: None
+  A: I don't have this information in the documents.
+
+Q66 [direct] How do I let colleagues book a meeting with me through Notion Calendar?
+  expected: notion-calendar.md | status: answered | score: 0.56 | corrected: None
+  A: To let colleagues book a meeting with you, click **Share availability** in the Scheduling snippet, then mark the times you’re free on your calendar. Once your availability is set, colleagues can book a meeting with you in one click.
+
+Q67 [direct] Which calendar services can Notion Calendar sync with?
+  expected: notion-calendar.md | status: answered | score: 0.60 | corrected: None
+  A: Notion Calendar can sync with **Google Calendar** and **Apple iCloud**.
+
+Q68 [direct] How do I add a template from the Marketplace to my workspace?
+  expected: start-with-a-template.md | status: answered | score: 0.59 | corrected: None
+  A: To add a template from the Marketplace to your workspace:
+
+1. Open the **Marketplace** from the sidebar.  
+2. Find a template you like.  
+3. Click **Add** (for free templates) or **Buy** (for paid templates) at the top of the page.  
+
+The template will then be added to your workspace, where you can customize it as needed.
+
+Q69 [direct] How do I delete one of the starter templates from my sidebar?
+  expected: start-with-a-template.md | status: escalated_low_confidence | score: 0.43 | corrected: None
+  A: I don't have this information in the documents.
+
+Q70 [direct] What is a restricted member, and how are they different from a regular member?
+  expected: whos-who-in-a-workspace.md | status: answered | score: 0.64 | corrected: None
+  A: A **restricted member** is a type of teamspace member who is given a broader level of access to the workspace—such as the ability to interact with all pages in a teamspace and to use Notion AI (with AI respecting their permissions).  
+
+**How they differ from regular members**
+
+- **Access level**: A restricted member can be granted broader workspace access, while a regular member has the standard level of access.  
+- **Permission hierarchy**: The teamspace member role includes both regular and restricted members, meaning a restricted member cannot be given a lower level of access than a regular member. If you need to give a restricted member a lower level of access, you must do so through permission groups or individual permissions.  
+- **Management controls**: Restricted members are managed via specific settings (e.g., who can add them to teamspaces or pages) and can be added when you need broader access or AI usage, whereas regular members are added without those extra controls.  
+
+Q71 [direct] How do I remove a member or a guest from my workspace?
+  expected: whos-who-in-a-workspace.md | status: answered | score: 0.85 | corrected: None
+  A: To remove a member or a guest from a workspace:
+
+1. **Open Settings** → **People** (or **Members**, depending on your plan).  
+2. Select the **Members** tab to remove a member, or the **Guests** tab to remove a guest.  
+3. Based on what you’re removing:  
+   - **Member:** Open the dropdown for the member’s role or access level and choose **Remove from workspace**.  
+   - **Guest:** Open the dropdown for the guest’s pages **or** click the **•••** next to the guest, then select **Remove** (or **Remove from workspace**).  
+
+Q72 [direct] How do I permanently delete my entire workspace?
+  expected: workspace-settings.md | status: answered | score: 0.52 | corrected: None
+  A: To permanently delete your entire workspace:
+
+1. Open **Settings** from the sidebar.  
+2. Under **Workspace**, select **General**.  
+3. Scroll down to the **Danger zone** section.  
+4. Click **Delete entire workspace**.  
+5. When prompted, type the name of your workspace to confirm the deletion.  
+
+This action is permanent and will remove all content for every member of the workspace. Make sure to export any data you want to keep before completing the deletion.
+
+Q73 [direct] How can I change the name and icon of my workspace?
+  expected: workspace-settings.md | status: answered | score: 0.59 | corrected: None
+  A: To change your workspace’s name and icon:
+
+1. Open **Settings** from the sidebar.  
+2. Under **Workspace**, select **General**.  
+3. In the **Name** field, type the new name you want for the workspace.  
+4. Under **Icon**, click the current icon and either pick an emoji or upload a new image.
+
+Q74 [direct] What actions can I take from the menu of the handle icon next to a block?
+  expected: writing-and-editing-basics.md | status: escalated_low_confidence | score: 0.32 | corrected: None
+  A: I don't have this information in the documents.
+
+Q75 [direct] How can I see the word count for part of a page?
+  expected: writing-and-editing-basics.md | status: answered | score: 0.63 | corrected: None
+  A: Select the blocks you want to count, and then look at the menu that pops up for that selection. The menu displays the word count (and character count) for the selected blocks. You can add or remove blocks from the selection to update the count.
+
+Q76 [reworded] My teammate can see the doc I shared with her but she can't change anything in it. How do I let her edit it?
+  expected: sharing-and-permissions.md | status: escalated_low_confidence | score: 0.14 | corrected: None
+  A: I don't have this information in the documents.
+
+Q77 [reworded] I shared a page with my team earlier, but now I want it to be visible only to me. How do I do that?
+  expected: sharing-and-permissions.md | status: answered | score: 0.63 | corrected: None
+  A: To make the page visible only to you:
+
+1. Open the page and click **Share** at the top.  
+2. In the list of people, groups, or workspaces that currently have access, open the dropdown next to each one and choose **Remove**.  
+   * (Alternatively, you can drag the page into the **Private** section of your sidebar, which automatically limits the page to you.)  
+
+After removing everyone else (or moving it to Private), only you will be able to see the page.
+
+Q78 [reworded] We added three people to our paid workspace in the middle of the month. Will we be charged for the full month for them?
+  expected: billing.md | status: answered | score: 0.47 | corrected: None
+  A: No. When you add members mid‑cycle on a paid plan, Notion prorates the charge and bills you only for the portion of the billing interval that those members were in the workspace.
+
+Q79 [reworded] My card payment for Notion failed. What happens to my workspace now?
+  expected: change-your-plan.md | status: answered | score: 0.56 | corrected: None
+  A: If a payment fails, Notion will email you after each failed attempt. The system will try to charge the card up to 8 times over the next month. If the payment still doesn’t go through, your workspace will be placed in a limited‑access state for a period of time, and then it will be downgraded to the Free plan.
+
+Q80 [reworded] All my notes are in Word files on my laptop. Can I move them into Notion?
+  expected: import-data.md | status: refused_by_model | score: 0.58 | corrected: None
+  A: I don't have this information in the documents.
+
+Q81 [reworded] I downloaded my export as a ZIP file but Windows refuses to open it. What should I do?
+  expected: export-content.md | status: escalated_low_confidence | score: 0.38 | corrected: None
+  A: I don't have this information in the documents.
+
+Q82 [reworded] I want one column that shows the total amount each customer has spent with us. How do I get that?
+  expected: relations-and-rollups.md | status: answered | score: 0.54 | corrected: None
+  A: Create a Rollup property for the customers table and set it to sum the prices of the items each customer bought.
+
+1. **Make sure you have a relation** that links each customer to the pages (or rows) that represent the items they purchased.  
+2. **Add a new column/property** to the customers table and choose **Rollup** as the property type. Give it a clear name (e.g., “Total Spent”).  
+3. Click any cell in that new rollup column; a menu will appear asking you to specify:  
+   - **Relation property** – select the relation you created (e.g., **Items Purchased**).  
+   - **Property to roll up** – choose the **Price** property from the related item pages.  
+   - **Calculation** – pick **Sum** (you can also reach this by clicking the Order Total property, hovering over **Calculate → More options**, and selecting **Sum**).  
+   - **Number formatting** – choose the format you prefer and set the decimal‑point placement if needed.  
+
+The rollup column will now display, for each customer, the total amount they have spent.
+
+Q83 [reworded] Can Notion assign a task to someone automatically when its status changes?
+  expected: database-automations.md | status: escalated_low_confidence | score: 0.33 | corrected: None
+  A: I don't have this information in the documents.
+
+Q84 [reworded] When the time for my reminder comes, how will Notion actually let me know?
+  expected: reminders.md | status: answered | score: 0.62 | corrected: None
+  A: When a reminder’s time arrives, Notion notifies you in several ways:
+
+- A red badge appears next to **Inbox** in the left sidebar.  
+- A push notification is sent to the **Notion desktop app**.  
+- Within five minutes of the reminder time, a push notification is sent to the **Notion mobile app**.  
+- If Notion isn’t open at that moment, you’ll receive both a **mobile push notification** and an **email**.
+
+Q85 [reworded] Search keeps matching random words inside pages. I only want it to match page titles. Is that possible?
+  expected: search-in-notion.md | status: escalated_low_confidence | score: 0.33 | corrected: None
+  A: I don't have this information in the documents.
+
+Q86 [reworded] Can people who don't have a Notion account fill out my form?
+  expected: forms.md | status: answered | score: 0.45 | corrected: None
+  A: Yes. People who aren’t part of your Notion workspace and don’t use Notion can still fill out your form as long as they have the link.
+
+Q87 [reworded] I'd like to see all my project tasks laid out on a calendar instead of a list. How do I do that?
+  expected: database-views-filters-sorts.md | status: escalated_low_confidence | score: 0.30 | corrected: None
+  A: I don't have this information in the documents.
+
+Q88 [reworded] Starting every page from a blank screen is slow. Is there ready-made content I can begin with?
+  expected: start-with-a-template.md | status: escalated_low_confidence | score: 0.15 | corrected: None
+  A: I don't have this information in the documents.
+
+Q89 [reworded] We have an intern who only needs to see two specific pages and nothing else in the workspace. What's the best way to add her?
+  expected: whos-who-in-a-workspace.md | status: escalated_low_confidence | score: 0.28 | corrected: None
+  A: I don't have this information in the documents.
+
+Q90 [reworded] How do I stop anyone from changing a really important page by accident?
+  expected: intro-to-workspaces.md | status: escalated_low_confidence | score: 0.38 | corrected: None
+  A: I don't have this information in the documents.
+
+Q91 [unanswerable] How much revenue did Notion earn last year?
+  expected: None | status: refused_by_model | score: 0.45 | corrected: None
+  A: I don't have this information in the documents.
+
+Q92 [unanswerable] Who are the founders of Notion?
+  expected: None | status: escalated_low_confidence | score: 0.38 | corrected: None
+  A: I don't have this information in the documents.
+
+Q93 [unanswerable] What is the exact monthly price of the Notion Plus plan per user?
+  expected: None | status: refused_by_model | score: 0.56 | corrected: None
+  A: I don't have this information in the documents.
+
+Q94 [unanswerable] Can I pay for my Notion plan using PayPal?
+  expected: None | status: refused_by_model | score: 0.54 | corrected: None
+  A: I don't have this information in the documents.
+
+Q95 [unanswerable] How do I connect Notion with Microsoft Teams?
+  expected: None | status: answered | score: 0.51 | corrected: None
+  A: You can’t connect Notion to Microsoft Teams. According to the documentation, users who don’t see the Connect option in Settings are unable to use Connect to link other apps—so linking Notion with Microsoft Teams isn’t available.
+
+Q96 [unanswerable] Does Notion have a built-in video calling feature for meetings?
+  expected: None | status: escalated_low_confidence | score: 0.31 | corrected: None
+  A: I don't have this information in the documents.
+
+Q97 [unanswerable] How do I reset the password for my Notion account?
+  expected: None | status: escalated_low_confidence | score: 0.43 | corrected: None
+  A: I don't have this information in the documents.
+
+Q98 [unanswerable] Which AI model does Notion AI use to answer questions?
+  expected: None | status: refused_by_model | score: 0.63 | corrected: None
+  A: I don't have this information in the documents.
+
+Q99 [unanswerable] Can I use Notion completely offline without an internet connection?
+  expected: None | status: escalated_low_confidence | score: 0.36 | corrected: None
+  A: I don't have this information in the documents.
+
+Q100 [unanswerable] How do I change the display language of the Notion app itself?
+  expected: None | status: escalated_low_confidence | score: 0.39 | corrected: None
+  A: I don't have this information in the documents.
+
+Q101 [typo] how to share file in notio with my friend
+  expected: sharing-and-permissions.md | status: answered | score: 0.59 | corrected: how to share file in Notion with my friend
+  A: Select **Share** at the top of the page you want to give your friend access to, then add your friend (as a person, group, or teamspace) and assign the appropriate permission level for them. This lets your friend view or edit the file according to the permission you set.
+
+Q102 [reworded] how to share file in notion with my friend
+  expected: sharing-and-permissions.md | status: answered | score: 0.59 | corrected: None
+  A: To share a file with your friend in Notion:
+
+1. Open the page that contains the file.  
+2. Click **Share** at the top of the page.  
+3. Add your friend (or the group/team they belong to) and assign the desired permission level for that person.  
+
+This lets your friend access the file with the permissions you set.
+
+Q103 [typo] How do I import a CSV file into Noton?
+  expected: import-data.md | status: answered | score: 0.72 | corrected: How do I import a CSV file into Notion?
+  A: To import a CSV file into Notion, follow these steps:
+
+1. **Open the import dialog**  
+   - Go to **Settings → Import → CSV** in the sidebar, **or** type **/csv** on any page.
+
+2. **Upload your file**  
+   - Select the **.csv** file you want to bring in.
+
+3. **Choose the destination**  
+   - Decide whether to **create a new database** or **add the data to an existing one**.
+
+4. **Select the import location**  
+   - Pick the page or database where the CSV should be placed.
+
+5. **Map the columns**  
+   - For each CSV column, match it to the Notion property you want (e.g., title, text, number, etc.).
+
+**Alternative method (when you’re already inside a database):**
+
+1. While viewing a full‑page database, click the **•••** menu at the top.  
+2. Choose **Merge with CSV**.  
+3. Upload the CSV and map its columns to the database’s properties.
+
+After completing these steps, the CSV rows become Notion pages (items) and the columns become properties in the database.
+
+Q104 [typo] How can I set a remnder in Notion?
+  expected: reminders.md | status: refused_by_model | score: 0.46 | corrected: None
+  A: I don't have this information in the documents.
+
