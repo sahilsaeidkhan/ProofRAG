@@ -1,0 +1,3445 @@
+[
+ [
+  "How does Notion billing work?",
+  "Can I change how often I get billed in Notion?",
+  "When do I have to pay for Notion?"
+ ],
+ [
+  "What happens if I upgrade my Notion plan halfway through the month?",
+  "Do I get charged right away when I upgrade Notion?",
+  "Do I get a discount if I upgrade in the middle of my billing cycle?"
+ ],
+ [
+  "Do I get charged if I add a new member in the middle of the month?",
+  "Do I get money back if I remove a workspace member mid-cycle?",
+  "How does proration work when adding and removing members?"
+ ],
+ [
+  "How does Notion calculate my bill?",
+  "What is a seat in Notion billing?",
+  "Can I swap out members in my workspace without paying extra?"
+ ],
+ [
+  "How am I billed if I have more than one paid Notion workspace?",
+  "Can different Notion workspaces have different billing schedules?",
+  "Will I get one bill for all my Notion workspaces?"
+ ],
+ [
+  "Where can I see my next billing date in Notion?",
+  "How do I check how many paid seats my workspace has?",
+  "Will I be charged extra if I add a new member?"
+ ],
+ [
+  "How can I collaborate with people in Notion without paying for a full seat?",
+  "What is the difference between a Notion member and a guest?",
+  "Can I invite people to just one Notion page for free?"
+ ],
+ [
+  "How do I invite a guest to a Notion page without accidentally adding a paid member?",
+  "What should I click when inviting a guest to avoid extra charges?",
+  "How do I make sure I am adding someone as a guest instead of a member?"
+ ],
+ [
+  "What happens when I add members?",
+  "How do you handle workspace members?",
+  "What should I know about adding team members?"
+ ],
+ [
+  "When do I get billed for adding members?",
+  "How does mid-cycle billing work for new members?",
+  "Do I pay for the full time when I add someone late?"
+ ],
+ [
+  "What happens when I remove a member?",
+  "Do I get a refund if I remove someone?",
+  "Can I reuse a seat after removing a member?"
+ ],
+ [
+  "Can you show an example of removing someone?",
+  "How does member removal work in practice?",
+  "What is an example of dropping workspace members?"
+ ],
+ [
+  "Can I replace a removed member for free?",
+  "What happens to my paid seats after I delete a contractor?",
+  "Can I add a new hire to an empty seat without paying more?"
+ ],
+ [
+  "When does my bill change after I remove someone?",
+  "How do you calculate my invoice after removing members?",
+  "When do member removals show up on my bill?"
+ ],
+ [
+  "What payment schedule options do I have?",
+  "How does paying yearly versus monthly work?",
+  "Does my payment choice affect how much I pay?"
+ ],
+ [
+  "Is yearly billing cheaper?",
+  "When does my subscription automatically renew?",
+  "How often does my bill adjust for the number of seats?"
+ ],
+ [
+  "What happens if I add members to my monthly plan mid-month?",
+  "When do I get charged for adding members on a monthly billing cycle?",
+  "When do I stop paying for removed members on a monthly plan?"
+ ],
+ [
+  "How am I charged if I add members mid-year on an annual plan?",
+  "When does my bill go down if I remove members on a yearly plan?",
+  "How many members am I billed for when my plan renews?"
+ ],
+ [
+  "Which billing interval is best if my team size changes a lot?",
+  "How do I change my billing interval in the settings?",
+  "Where do I click to edit my billing period?"
+ ],
+ [
+  "What happens to my billing cycle when I switch from monthly to yearly?",
+  "When does my plan renew if I change to yearly billing?",
+  "What happens to the time I already paid for on my monthly plan when I switch to yearly?"
+ ],
+ [
+  "How does prorating work when I switch from monthly to yearly?",
+  "What happens to the unused days on my monthly plan when I upgrade to yearly?",
+  "Can you give an example of switching from a monthly to a yearly plan?"
+ ],
+ [
+  "When does the switch from yearly to monthly billing take effect?",
+  "Who is allowed to view and manage plans and billing?",
+  "How often does my plan renew after switching to monthly?"
+ ],
+ [
+  "How do I view my plan and billing details?",
+  "Where can I find my renewal date?",
+  "How do I check how much I am paying for my plan?"
+ ],
+ [
+  "Does Notion offer trials or discounts?",
+  "Where can I see the list of accepted payment methods?",
+  "Why did my paid workspace automatically downgrade to a free plan?"
+ ],
+ [
+  "How do I re-upgrade my plan?",
+  "Why does my workspace still say it is on a free plan?",
+  "Do Notion plans cover my whole account?"
+ ],
+ [
+  "Why do people create multiple workspaces?",
+  "Can I use groups instead of multiple workspaces?",
+  "How do I stop people from accessing other teams' work?"
+ ],
+ [
+  "How do I disable workspace access?",
+  "How do I give different access levels to groups?",
+  "Do sub-pages inherit access levels from parent pages?"
+ ],
+ [
+  "How do I make a section just for the engineering team?",
+  "How do I hide pages from people who aren't in a specific group?",
+  "Can I give only one group access to a top-level page?"
+ ],
+ [
+  "How many pricing plans does Notion offer?",
+  "Are Notion plans billed per account or per workspace?",
+  "Can my workspaces be on different plans?"
+ ],
+ [
+  "Where can I compare Notion plans and prices?",
+  "Are all Notion plans available for every workspace?",
+  "Does Notion have a free plan?"
+ ],
+ [
+  "What is the Notion Free Plan used for?",
+  "Who is the Plus Plan for?",
+  "What features does the Business Plan include?"
+ ],
+ [
+  "Who is the Enterprise Plan for?",
+  "How can small companies upgrade to Enterprise?",
+  "What should companies with over 100 employees do to get Enterprise?"
+ ],
+ [
+  "What happens to my AI usage if I upgrade from Free to Plus?",
+  "How do I keep using Notion AI after my limit runs out?",
+  "Can students get the Plus Plan for free?"
+ ],
+ [
+  "How do I upgrade my Notion plan on my computer?",
+  "Where do I click in the sidebar to change my plan?",
+  "How do I see my order summary before upgrading?"
+ ],
+ [
+  "When does my new plan start if I upgrade mid-billing cycle?",
+  "Will I be charged right away when I upgrade early?",
+  "Do I get a discount for the time left on my old plan?"
+ ],
+ [
+  "How can I save money on my Notion subscription?",
+  "What payment methods does Notion accept?",
+  "Who processes payments for Notion?"
+ ],
+ [
+  "Can I buy a Notion plan using the mobile app?",
+  "How do I subscribe to Notion Plus on an iPhone?",
+  "Are in-app purchases available on the Android app?"
+ ],
+ [
+  "Can I use the mobile app to upgrade a workspace with multiple members?",
+  "How do I upgrade a team workspace?",
+  "What is the member limit for mobile app subscriptions?"
+ ],
+ [
+  "What is the mobile version of the Plus Plan called?",
+  "Does the mobile Notion Business plan include all the desktop features?",
+  "How can I tell if my subscription was bought through Apple or Google?"
+ ],
+ [
+  "What security features are missing from the mobile Business plan?",
+  "Does the mobile Business plan include SAML single sign-on?",
+  "Can I use private teamspaces with the mobile Business subscription?"
+ ],
+ [
+  "What happens when I use up my Notion AI credits?",
+  "Can I buy more Notion credits if I pay through the App Store?",
+  "How do I buy more credits if I use mobile billing?"
+ ],
+ [
+  "How do I upgrade my Notion plan on my phone?",
+  "Where do I go to manage my mobile Notion subscription?",
+  "Who should I contact for a refund on an Apple App Store subscription?"
+ ],
+ [
+  "How can workspace owners let members ask for plan upgrades?",
+  "How do I ask for a plan upgrade if I am not the owner?",
+  "Where do I click in Notion to request a new plan?"
+ ],
+ [
+  "How do I know if my plan upgrade request was approved?",
+  "How do workspace owners approve upgrade requests from members?",
+  "Where do owners go to review member purchase requests?"
+ ],
+ [
+  "Where do I get notified when my upgrade request is approved?",
+  "What happens to my features if I downgrade my Notion plan?",
+  "How do I downgrade my Notion plan?"
+ ],
+ [
+  "What is the difference between the Free and Plus plans?",
+  "What extra features come with the Plus plan?",
+  "What is considered a block in Notion?"
+ ],
+ [
+  "Can I use Notion completely for free?",
+  "How does team collaboration work on the Free Plan?",
+  "Do students get a discount on Notion?"
+ ],
+ [
+  "Is Notion free for students and teachers?",
+  "What do I need to do to get the free student plan?",
+  "Do I need a .edu email address for the student discount?"
+ ],
+ [
+  "How much does the paid plan cost per person?",
+  "Do I have to pay for guests?",
+  "Can I pay yearly instead of monthly?"
+ ],
+ [
+  "What are my billing choices?",
+  "Is yearly billing cheaper?",
+  "How do I pay for my subscription?"
+ ],
+ [
+  "Do I get charged right away if I add a new member?",
+  "What happens if I remove a team member?",
+  "Will I get money back if I remove someone?"
+ ],
+ [
+  "What happens when I upgrade my plan?",
+  "When does a plan downgrade happen?",
+  "How do I cancel my paid plan?"
+ ],
+ [
+  "Does my subscription renew automatically?",
+  "How do I cancel my subscription on the website?",
+  "Where do I cancel if I subscribed through an app store?"
+ ],
+ [
+  "What happens if my credit card expires?",
+  "How many times will a failed payment be tried?",
+  "Can I update how I pay?"
+ ],
+ [
+  "How do I update my payment method?",
+  "How do I ask for a refund?",
+  "Can I get a full refund if I cancel early?"
+ ],
+ [
+  "Can I get a refund if I added a member by mistake?",
+  "How long do I have to ask for a refund for an extra member?",
+  "What should I do before asking for a refund for an added member?"
+ ],
+ [
+  "Who should I contact if I am unhappy with Notion?",
+  "Does Notion offer a Service-Level Agreement or SLA?",
+  "Can I get a custom SLA if my team is large?"
+ ],
+ [
+  "What payment processor does Notion use?",
+  "Can I join multiple teams using the same email address?",
+  "Do I need to upgrade each workspace separately?"
+ ],
+ [
+  "Can I change my Notion plan using the mobile app?",
+  "Where do I manage my subscription if I bought it on the web?",
+  "How do I change my subscription if I signed up through iOS or Android?"
+ ],
+ [
+  "How can I work with others asynchronously in Notion?",
+  "Where can I leave feedback on a Notion page?",
+  "How do I start a discussion at the top of a page?"
+ ],
+ [
+  "How do I add a comment to the top of a Notion page?",
+  "How do I mention a colleague in a comment?",
+  "How do I resolve or reopen a comment in Notion?"
+ ],
+ [
+  "Can I comment on specific parts of a page in Notion?",
+  "How do I offer an opinion or ask a question on a page?",
+  "What are the ways to make a comment in Notion?"
+ ],
+ [
+  "How do I comment on selected text in Notion?",
+  "How do I use keyboard shortcuts to make a comment?",
+  "How do I comment using the block menu icon?"
+ ],
+ [
+  "How do I reply to an existing comment thread?",
+  "Where do I click to respond to a comment?",
+  "How do I add a comment to an ongoing discussion?"
+ ],
+ [
+  "Can I leave one comment on multiple blocks at once?",
+  "Where do page comments show up by default?",
+  "How do I see long comment threads that are collapsed?"
+ ],
+ [
+  "How do I change how page comments are displayed?",
+  "What does the Minimal comment setting do?",
+  "Where is the Customize page button located?"
+ ],
+ [
+  "How do I open the comments pane?",
+  "How do I know if I have unread comments?",
+  "Can I filter comments by person or status?"
+ ],
+ [
+  "Which comments appear at the top of the comment pane?",
+  "Why aren't new comments moving to the top while I have the pane open?",
+  "Where can I find resolved comments?"
+ ],
+ [
+  "What are database page comments?",
+  "How do I leave a top-level comment on a database page?",
+  "Can I add comments to a database page?"
+ ],
+ [
+  "How do I read existing comments in a database?",
+  "Can I add comments from the Home tab?",
+  "How do I add comments in a timeline view?"
+ ],
+ [
+  "How do I add a comment in a table or list view?",
+  "How do I leave a comment in a gallery or board view?",
+  "Can I right-click a database page to add a comment?"
+ ],
+ [
+  "Can I leave comments on database properties?",
+  "How do I add a comment to a database property?",
+  "In which views can I comment on database properties?"
+ ],
+ [
+  "How do I mention someone in Notion?",
+  "Can I mention a group of people in my workspace?",
+  "Where can I use mentions in Notion?"
+ ],
+ [
+  "How do I see who is in a mentioned group?",
+  "Where can I find the list of all groups in Notion?",
+  "Why can't I see all members when I hover over a group?"
+ ],
+ [
+  "How do I mention someone in a database?",
+  "Can I assign tasks to people using mentions?",
+  "Do I get the same notification when mentioned in a database property?"
+ ],
+ [
+  "How do I link to another page using the at sign?",
+  "What happens to my links if I rename a page?",
+  "How do I create an inline link to a page?"
+ ],
+ [
+  "How do I add a date using the at sign?",
+  "Can I type today or tomorrow to add a date?",
+  "What happens when I type a date with an @ symbol?"
+ ],
+ [
+  "Where do I look for my mention notifications?",
+  "How do I know if someone mentioned me in Notion?",
+  "How do I go to the place where I was mentioned?"
+ ],
+ [
+  "Can I filter my inbox to show only mentions?",
+  "Will people get notified if I mention them on a private page?",
+  "How do I reply to a comment from my inbox?"
+ ],
+ [
+  "How do I add an emoji reaction to text?",
+  "Can I add reactions to comments?",
+  "How do I react to a comment on mobile?"
+ ],
+ [
+  "Why didn't I get an email when someone mentioned me?",
+  "Do I get push notifications if Notion is open on my phone?",
+  "When do I actually get an email notification for an @-mention?"
+ ],
+ [
+  "What is the difference between an @-mention and a Link to page block?",
+  "Does an @-mention create a subpage in my sidebar?",
+  "How does Link to page work compared to mentioning a page?"
+ ],
+ [
+  "What are database automations in Notion?",
+  "Where can I learn about Notion database automations?",
+  "How do database automations help me work better?"
+ ],
+ [
+  "What is a database automation?",
+  "What are triggers and actions in Notion automations?",
+  "Are database automations meant to save time?"
+ ],
+ [
+  "What can I use database automations for?",
+  "How do I automatically assign a task when status changes?",
+  "Can I send a Slack message when a page is added to a database?"
+ ],
+ [
+  "Why isn't my automation working on some pages?",
+  "Can one database automation trigger another automation?",
+  "Can button actions trigger database automations?"
+ ],
+ [
+  "Who can create and edit database automations?",
+  "Are database automations available on the free plan?",
+  "Can free plan users make Slack automations?"
+ ],
+ [
+  "Can free plan users edit automations in templates?",
+  "What kind of automations can free users make?",
+  "Can free users use templates that have automations?"
+ ],
+ [
+  "How do I make a database automation?",
+  "Can I name my database automation?",
+  "How do I add a button to my database?"
+ ],
+ [
+  "Can an automation have more than one trigger?",
+  "What is the difference between any and all triggers?",
+  "What happens if my edited triggers don't happen within three seconds?"
+ ],
+ [
+  "How can I fix problems with multiple edited triggers?",
+  "What triggers should I use instead of is edited?",
+  "How many types of triggers are available?"
+ ],
+ [
+  "What does the page added trigger do?",
+  "When does a page added automation start?",
+  "How does the page added trigger work?"
+ ],
+ [
+  "What does property edited mean?",
+  "Which properties can be used for the edited trigger?",
+  "Can you give an example of a property edited automation?"
+ ],
+ [
+  "What is the every frequency trigger?",
+  "How often can I set a recurring automation to repeat?",
+  "What settings can I change for recurring automations?"
+ ],
+ [
+  "Does the every frequency trigger work with edit property?",
+  "Can I use more than one condition for my trigger?",
+  "Can a recurring trigger be paired with other triggers?"
+ ],
+ [
+  "What permissions do I need for automations to add pages?",
+  "Why is my automation not working with private pages?",
+  "Can automations have multiple actions?"
+ ],
+ [
+  "What does the edit property action do?",
+  "Can I add just one value to a multi-select property without removing others?",
+  "How do I automatically add my name to a task if it has a certain word?"
+ ],
+ [
+  "What does the add page to action do?",
+  "How do I send a workspace notification with an automation?",
+  "Who can I send notifications to in Notion?"
+ ],
+ [
+  "How does the send mail to automation work?",
+  "What plans support sending Slack notifications?",
+  "What does the send webhook action do?"
+ ],
+ [
+  "How do I create a custom variable in automations?",
+  "What can I use to make a custom variable?",
+  "Where can I use defined variables?"
+ ],
+ [
+  "Do I need a Gmail account for this automation?",
+  "Who can edit an automation after a Gmail account is linked?",
+  "How long does it take for automation emails to arrive?"
+ ],
+ [
+  "When does the send mail to action send an email?",
+  "Why would I use the email automation for tasks?",
+  "How do I send status updates to my team automatically?"
+ ],
+ [
+  "How do I start setting up a database automation?",
+  "Where do I click to add a send mail action?",
+  "How do I connect a different Gmail account to my automation?"
+ ],
+ [
+  "Who can I send automated emails to?",
+  "Can I send emails to people outside my workspace?",
+  "How do I add a CC or BCC to my automated email?"
+ ],
+ [
+  "How do I add CC or BCC to my email?",
+  "How do I put a date in my email subject?",
+  "How do I use a formula in the email subject?"
+ ],
+ [
+  "How do I add a link to a page inside my email message?",
+  "How do I write the message body for my email?",
+  "Can I use a formula in my email message?"
+ ],
+ [
+  "How do I change the name that appears with my sent email?",
+  "Can I use a workspace person in my email display name?",
+  "How do I add a formula to my email display name?"
+ ],
+ [
+  "How do I make email replies go to someone else?",
+  "Can I send email replies to a specific person property?",
+  "What is the setting for sending replies to a different person?"
+ ],
+ [
+  "Can I create my own custom variables using formulas?",
+  "Where can I use custom variables once I make them?",
+  "How do I set up a custom variable?"
+ ],
+ [
+  "How do I start making a new database automation?",
+  "How do I add a new variable action in my automation?",
+  "How do I rename or edit a variable?"
+ ],
+ [
+  "When would I need to use a custom variable?",
+  "Can you give an example of using a custom variable?",
+  "How do I automatically complete sub-tasks when a parent task is done?"
+ ],
+ [
+  "How do I set a trigger for when a status is complete?",
+  "How do I choose the trigger page in my variable settings?",
+  "What are the steps to set up a variable with a formula?"
+ ],
+ [
+  "How do I select the trigger page in my formula?",
+  "What should I type after the trigger page in the formula?",
+  "How do I add the sub-item to my formula?"
+ ],
+ [
+  "How do I save my formula?",
+  "Where do I click to add an action in automation settings?",
+  "How do I select edit pages in the automation?"
+ ],
+ [
+  "How do I select variable 1 in the database dropdown?",
+  "How do I change the status property in the automation?",
+  "How do I save my automation actions?"
+ ],
+ [
+  "How do I make all sub-items complete when I finish the parent item?",
+  "Can I use formulas in automation triggers?",
+  "Can I use formulas when sending Slack notifications?"
+ ],
+ [
+  "Can I add the current date to a new page name?",
+  "How do I notify someone and mention a specific page?",
+  "How do I calculate how long a ticket took to complete?"
+ ],
+ [
+  "Where do I click to open database automations?",
+  "How do I add a new action in my automation?",
+  "How do I add a formula in an automation field?"
+ ],
+ [
+  "Can Notion AI help me with formulas?",
+  "How does Notion help me fix broken automations?",
+  "Can Notion AI answer questions about formulas?"
+ ],
+ [
+  "What happens if my automation has errors while I set it up?",
+  "Can I save an automation that has errors?",
+  "What happens if a working automation suddenly runs into an error?"
+ ],
+ [
+  "What happens if a working automation gets an error?",
+  "When do I get a notification about automation errors?",
+  "Why didn't I get a notification when my formula failed?"
+ ],
+ [
+  "How do I go to a broken automation from a notification?",
+  "How do I turn my automation back on after fixing it?",
+  "Where do I click to un-pause my automation?"
+ ],
+ [
+  "How do I turn on my automation using the three dots menu?",
+  "Why do my date calculations cause the automation to fail?",
+  "How can I stop date calculation errors in my automations?"
+ ],
+ [
+  "Why does my automation fail when using certain database views?",
+  "How do view filters affect whether my automation works?",
+  "What kind of view should I use for my automation to run properly?"
+ ],
+ [
+  "How do I view all automations for my database?",
+  "How do I edit, pause, or delete an existing automation?",
+  "How long does the database take to scan for property changes?"
+ ],
+ [
+  "Can automations run on just one specific database view?",
+  "Can database guests create new automations?",
+  "Do automations work for the whole database or just a view?"
+ ],
+ [
+  "Why is my database automation not working?",
+  "Can one automation trigger another automation?",
+  "Why does locking a database stop my automation from running?"
+ ],
+ [
+  "How do I create a new database in Notion?",
+  "What command do I use to make a database on an existing page?",
+  "How do I add columns and properties to my database?"
+ ],
+ [
+  "How do I change a property type in Notion?",
+  "Is using Notion AI to make a database free?",
+  "Do Business and Enterprise plans have limits on Notion AI?"
+ ],
+ [
+  "What happens if I use Notion AI without a Business plan?",
+  "How do I make a database with Notion AI on an existing page?",
+  "What slash command makes a database in Notion?"
+ ],
+ [
+  "How do I tell Notion AI what kind of database I want?",
+  "Can I change the database after seeing the Notion AI preview?",
+  "How do I finish making a database with Notion AI?"
+ ],
+ [
+  "How do I create a database using the Notion AI widget on Home?",
+  "Where is the Build mode toggle located?",
+  "What kind of details should I give Notion AI for a database?"
+ ],
+ [
+  "Can Notion AI edit a database that already exists?",
+  "Can Notion AI make database forms or charts?",
+  "Can Notion AI create pages inside my database?"
+ ],
+ [
+  "Where do databases made in Home using Build mode go?",
+  "Can I move an AI-made database to a different page?",
+  "How do I use templates to make a database in Notion?"
+ ],
+ [
+  "How do I start making a database from a template?",
+  "Where do I find suggested templates in Notion?",
+  "How do I add a new task to my task database?"
+ ],
+ [
+  "How do I add a priority property to my tasks?",
+  "How do I edit a property in my database?",
+  "How do I add options like P1 and P2 to a property?"
+ ],
+ [
+  "How do I add a new property in Notion?",
+  "How do I open a database row as a page?",
+  "What type should I choose for a due date property?"
+ ],
+ [
+  "How do I create a new database view?",
+  "How do I change my database to a board view?",
+  "Can I add content inside the body of a database page?"
+ ],
+ [
+  "What does board view do in Notion?",
+  "When should I use a gallery view?",
+  "Can I have multiple views for my database?"
+ ],
+ [
+  "What is calendar view used for?",
+  "When are timelines useful in Notion?",
+  "How do I filter and sort my database data?"
+ ],
+ [
+  "Where is the settings menu to filter my database?",
+  "How do I sort my database by due dates?",
+  "Can I add multiple filters to a database view?"
+ ],
+ [
+  "What are database properties in Notion?",
+  "Why should I use database properties?",
+  "What kind of context can database properties add?"
+ ],
+ [
+  "What is the text property used for in Notion?",
+  "How does the number property work?",
+  "What is the difference between Select and Status properties?"
+ ],
+ [
+  "What is a multi-select property used for?",
+  "How does the relation property work in Notion?",
+  "What can I use the formula property for?"
+ ],
+ [
+  "What does the Rollup property do?",
+  "How can I tag someone in my workspace?",
+  "What is the Tick box property used for?"
+ ],
+ [
+  "What happens when you click a URL property?",
+  "Can I edit the Created time property?",
+  "Who does the Created by property record?"
+ ],
+ [
+  "Is the Last edited time property editable?",
+  "What does the Button property do?",
+  "Can I manually change an ID property?"
+ ],
+ [
+  "How does Notion AI help with database properties?",
+  "How do I create my first property in a database?",
+  "Can I apply a layout to all pages in a database?"
+ ],
+ [
+  "How do I add a property to a database that already has properties?",
+  "How do I add a property using the plus icon in a database?",
+  "How do I insert a property to the left or right in table view?"
+ ],
+ [
+  "How do I open the settings menu to edit database properties?",
+  "Can I search for a specific property in the settings?",
+  "How do I duplicate or delete a property?"
+ ],
+ [
+  "How do I edit an individual property directly in my database?",
+  "How do I hide or show specific properties in a database view?",
+  "Where is the Property visibility setting located?"
+ ],
+ [
+  "What is data put into a property called?",
+  "Do all property types use the same way to edit values?",
+  "Are values edited the same way for every property?"
+ ],
+ [
+  "How do I add tags to select properties?",
+  "How can I change the name or color of a tag?",
+  "How do I change the order of my tags?"
+ ],
+ [
+  "How do I pick a date in a date property?",
+  "How do I set a reminder for a date?",
+  "How do I add a time to my date property?"
+ ],
+ [
+  "How do I change the time and date format?",
+  "How do I upload a file to the files and media property?",
+  "Can I upload more than one file at a time?"
+ ],
+ [
+  "How do I delete or download an uploaded file?",
+  "How do I tag another member in a person property?",
+  "How do I remove someone I tagged?"
+ ],
+ [
+  "Which properties fill in automatically?",
+  "How do I add a phone number or email address?",
+  "Are relation and rollup properties hard to edit?"
+ ],
+ [
+  "What is the maximum number of properties a database can have?",
+  "What happens if I go over the property limit?",
+  "How can I fix the property limit error?"
+ ],
+ [
+  "Who is allowed to use conditional colors on database pages?",
+  "What happens if I only have view access to a database?",
+  "What are conditional colors used for?"
+ ],
+ [
+  "How do I add conditional colors to a database view?",
+  "Can I color code my database items based on rules?",
+  "Where do I go to set up conditional coloring?"
+ ],
+ [
+  "How do I set up conditional colors in my database?",
+  "Where do I click to add a new color setting?",
+  "How do I set a rule for my database colors?"
+ ],
+ [
+  "Will my database pages match the property colors by default?",
+  "Can I change the colors of my database pages later?",
+  "What happens to page colors if I color my database by priority?"
+ ],
+ [
+  "How do I color the whole row in a table view?",
+  "Can I apply colors to just one property instead of the whole row?",
+  "How do I add more than one color condition?"
+ ],
+ [
+  "Which database views support conditional colors?",
+  "Can I use conditional colors on a calendar view?",
+  "What database properties can I use for conditional colors?"
+ ],
+ [
+  "Do conditional color settings apply to all views in my database automatically?",
+  "Can different views have different color settings?",
+  "What happens to color settings when I duplicate a view?"
+ ],
+ [
+  "Does conditional color change the whole page background?",
+  "Can I color just a specific property inside a page?",
+  "How do I apply a color to just a property instead of the whole page?"
+ ],
+ [
+  "How do I delete a color setting in my database?",
+  "Where can I leave comments in database properties?",
+  "What properties are not allowed to have comments?"
+ ],
+ [
+  "How do I leave a comment on a property in table view?",
+  "How do I add a comment inside a database page?",
+  "How do I comment on a tick box property?"
+ ],
+ [
+  "How do I know if a property has a comment?",
+  "How do I view and reply to comments on a property?",
+  "Can I give specific access levels to people mentioned in a database page?"
+ ],
+ [
+  "Can I view the same database in different ways?",
+  "How do I organize content inside a database view?",
+  "What are filters and sorts used for in a database?"
+ ],
+ [
+  "Can I link a view from another database to my current one?",
+  "Why would I want to link a task database to a project database?",
+  "Where can I see an overview of different database layouts?"
+ ],
+ [
+  "What does a table view look like in a database?",
+  "How does the board view work?",
+  "What is a timeline view used for?"
+ ],
+ [
+  "How does the calendar view display my items?",
+  "What is a list view in a database?",
+  "How do I use the gallery view to show images?",
+  "What types of charts are available in database views?"
+ ],
+ [
+  "Can I create forms connected to databases?",
+  "What layout are new databases created in by default?",
+  "How do I add a new view to my database?"
+ ],
+ [
+  "How do I name a new database view after creating it?",
+  "Can I change how database view tabs look with icons or text?",
+  "Will changing how a view tab looks affect other users?"
+ ],
+ [
+  "How do I change the order of my database views?",
+  "How do database views appear in the sidebar?",
+  "Do settings apply to all database views automatically?"
+ ],
+ [
+  "How do I rename a view?",
+  "Where do I click to delete a view?",
+  "How do I open the database settings menu?"
+ ],
+ [
+  "How do I change the layout of my database?",
+  "What does the sort option do in a database?",
+  "How do I group my data by a property?"
+ ],
+ [
+  "How do I get a direct link to my database view?",
+  "Can I copy the link to a specific view?",
+  "Where is the option to copy a view link?"
+ ],
+ [
+  "What are the different ways to open database pages?",
+  "What is a side peek in Notion?",
+  "How does center peek work?"
+ ],
+ [
+  "How do I change how pages open in a view?",
+  "What layout opens in side peek by default?",
+  "Which layouts open in center peek by default?"
+ ],
+ [
+  "Can I filter my database to show only certain items?",
+  "Are database filters hard to set up?",
+  "How do I hide items I don't want to see in a database?"
+ ],
+ [
+  "How do I add a filter to a database view?",
+  "How do I make a filter apply only for me?",
+  "Can I save a filter for everyone in the database?"
+ ],
+ [
+  "How do I use advanced filters with AND and OR logic?",
+  "Can I create nested filter groups in my database?",
+  "How many layers deep can I nest advanced filters?"
+ ],
+ [
+  "How do I make a filter an advanced filter?",
+  "How do I delete a database filter?",
+  "Where is the filter settings menu located?"
+ ],
+ [
+  "Do sub-items affect database filters?",
+  "How does database sorting work?",
+  "What kinds of things can I sort a database by?"
+ ],
+ [
+  "How do I sort my database?",
+  "How do I make a sort apply only to me?",
+  "How do I change the order of multiple sorts?"
+ ],
+ [
+  "How do text and number properties sort differently?",
+  "How do I change the sort order for select properties?",
+  "How do I delete a sort?"
+ ],
+ [
+  "How do I remove a sort from my database?",
+  "How do I group my database by properties?",
+  "Where do I find the group settings?"
+ ],
+ [
+  "How do I hide or show groups?",
+  "How do I sort my database groups?",
+  "How do I turn off grouping?"
+ ],
+ [
+  "When does a database become searchable?",
+  "How do I search inside a database?",
+  "What does the database search look at?"
+ ],
+ [
+  "How do I freeze a column in my database?",
+  "What does freezing a column do?",
+  "How do I unfreeze a column?"
+ ],
+ [
+  "What formats can I export Notion content in?",
+  "Can I export a Form view in Notion?",
+  "Can I export an entire Notion workspace?"
+ ],
+ [
+  "Can I save Notion pages as a PDF?",
+  "Why should I export my Notion pages as a PDF?",
+  "Can I back up my Notion data to my hard drive?"
+ ],
+ [
+  "How do I start the export process on a Notion page?",
+  "How do I choose PDF as my export format?",
+  "How do I change the paper size when exporting to PDF?"
+ ],
+ [
+  "How do I download the PDF file to my computer?",
+  "Can I include subpages when exporting to PDF?",
+  "How do I get a zip file of subpages in Notion?"
+ ],
+ [
+  "What is included in the zip file when exporting subpages?",
+  "Do custom emojis show up in PDF exports?",
+  "Where do image files go during a subpage export?"
+ ],
+ [
+  "What happens if my PDF export fails?",
+  "How do I export a Notion page as a PDF from my phone?",
+  "Can I use my phone to export Notion content?"
+ ],
+ [
+  "How do I find the export option on the mobile app?",
+  "How can I send the exported PDF from my phone to my computer?",
+  "What can I do with the download link on my mobile device?"
+ ],
+ [
+  "Do I get an email link when exporting from my phone?",
+  "Can business plans export subpages on mobile?",
+  "What kind of file do I get when exporting subpages on a business plan?"
+ ],
+ [
+  "Can I export comments when saving as HTML?",
+  "What kinds of comments are included in an HTML export?",
+  "Can any Notion page be exported as HTML?"
+ ],
+ [
+  "How do I export a Notion page as an HTML file?",
+  "Where do I click to start exporting a page?",
+  "How do I include sub-pages when exporting to HTML?"
+ ],
+ [
+  "What kind of file do I get when I export as HTML?",
+  "Where do the images go when I export with sub-pages?",
+  "How are sub-pages organized in the downloaded zip file?"
+ ],
+ [
+  "How do I export a page when using Notion on my phone?",
+  "What are the steps to export on mobile?",
+  "Can I use Notion mobile to save an HTML file?"
+ ],
+ [
+  "Where is the export button on the mobile app?",
+  "How do I include sub-pages in a mobile export?",
+  "How do I get the export file on my computer using AirDrop?"
+ ],
+ [
+  "How do I download the export file on my phone?",
+  "Can I save the download link for later use?",
+  "Does Notion email me a link to download my export?"
+ ],
+ [
+  "What format do databases export as?",
+  "Can I export normal pages as Markdown?",
+  "How are callout blocks exported since they do not have a Markdown version?"
+ ],
+ [
+  "How do I export my Notion page as Markdown and CSV?",
+  "What steps do I take to choose Markdown and CSV for my export?",
+  "What type of file is downloaded when I choose Markdown and CSV?"
+ ],
+ [
+  "What do I do after naming my exported file?",
+  "What programs can I use to open CSV database files?",
+  "How do I open Markdown files?"
+ ],
+ [
+  "How do I do this on my phone?",
+  "What are the steps for mobile devices?",
+  "How do I export from the mobile app?"
+ ],
+ [
+  "Where is the export button on mobile?",
+  "What export format should I choose on my phone?",
+  "How do I get my exported files from my phone to my computer?"
+ ],
+ [
+  "Can I save my download link for later?",
+  "Where else do I get the file download link?",
+  "Does Notion email me a download link?"
+ ],
+ [
+  "How do I print a page in Notion?",
+  "Can I print a full-page database directly?",
+  "How do I print from the desktop app?"
+ ],
+ [
+  "Can I back up my entire Notion workspace?",
+  "What file formats can I use to export my whole workspace?",
+  "What data is included when I export my workspace?"
+ ],
+ [
+  "Are private pages of other users included in my export?",
+  "How can workspace admins include restricted pages in an export?",
+  "Why might some content be missing from my export?"
+ ],
+ [
+  "Where do I go in settings to export my workspace?",
+  "How do I get the download link for my workspace export?",
+  "How long does it take for a workspace export to finish?"
+ ],
+ [
+  "What happens if my email notifications are turned off when exporting?",
+  "Can I export my entire workspace from a mobile phone?",
+  "Can I instantly recreate my workspace by reuploading exported content?"
+ ],
+ [
+  "Can I run a scheduled export using code?",
+  "How do I automate workspace exports for audits?",
+  "Can I check if an export is finished downloading using code?"
+ ],
+ [
+  "Is this API export different from the Notion Export menu?",
+  "Who can set up the admin bot for workspace-level exports?",
+  "What plan do I need to use the export API?"
+ ],
+ [
+  "Why don't I see an export option in my menu?",
+  "How do workspace owners enable exporting in Enterprise?",
+  "How can teamspace owners allow members to export content?"
+ ],
+ [
+  "What permissions do guests need to see the export option?",
+  "Why isn't my large export downloading automatically?",
+  "When do I get an email link for my export instead of a direct download?"
+ ],
+ [
+  "Can I export all database views at the same time?",
+  "Which database views are available for export?",
+  "Why won't my Windows computer open the exported ZIP file?"
+ ],
+ [
+  "Why does Windows fail to extract Notion export ZIP files?",
+  "What causes long file path errors when extracting ZIPs in Windows?",
+  "What is the maximum file path length limit in Windows?"
+ ],
+ [
+  "How do I fix Windows ZIP extraction errors for exports?",
+  "How do I uncheck subpage folders during export?",
+  "What software can open ZIP files with long file paths?"
+ ],
+ [
+  "What are Notion forms used for?",
+  "Can people outside my workspace fill out Notion forms?",
+  "Who is allowed to make forms in Notion?"
+ ],
+ [
+  "How do Notion forms connect to databases?",
+  "Can I create a new form on my phone?",
+  "Can I customize a form using the mobile app?"
+ ],
+ [
+  "How do I make a new form using a slash command?",
+  "Do I need to manually track who fills out my form?",
+  "What permission do I need to make a form from an existing database?"
+ ],
+ [
+  "How do I add a form to a database I already have?",
+  "Where do I click to add a new view in a database?",
+  "How do I start making questions for my form?"
+ ],
+ [
+  "How do I save the names of people who fill out my form?",
+  "What permissions do I need to edit a form?",
+  "Which plans include conditional logic for forms?"
+ ],
+ [
+  "What happens after I create a form?",
+  "What can I do in the form builder?",
+  "How do I set up my form before sharing it?"
+ ],
+ [
+  "How do I add a title and description to my form?",
+  "Can I add an icon to my form?",
+  "How do I add a cover image to my form?"
+ ],
+ [
+  "How do I edit questions in my form?",
+  "Do changes in my form update my database properties?",
+  "What happens to my database if I rename a form question?"
+ ],
+ [
+  "How do I add more questions to my form?",
+  "How do I make a question required?",
+  "How do I add a description to a question?"
+ ],
+ [
+  "How do I change a multiple choice question to a dropdown?",
+  "How do I allow long answers for text questions?",
+  "How do I change the question type?"
+ ],
+ [
+  "How do I limit the number of selections for a question?",
+  "Can I make my form question look different from the database property name?",
+  "How do I stop the form question from syncing with the property name?"
+ ],
+ [
+  "How do I add conditional logic to a multiple choice question?",
+  "How do I duplicate a question?",
+  "How do I delete a question?"
+ ],
+ [
+  "Where do I change the submit button color and text?",
+  "How do I get an email copy of each form submission?",
+  "How do I preview my form before sharing it?"
+ ],
+ [
+  "What access do I need to change form sharing settings?",
+  "Who can copy and share a form URL?",
+  "Can workspace owners stop forms from being shared to the web?"
+ ],
+ [
+  "Where do I click to share my form?",
+  "How do I change who can fill out my form?",
+  "Can workspace members fill out the form using the link?"
+ ],
+ [
+  "Can people outside my workspace fill out the form?",
+  "How do I close my form and stop getting responses?",
+  "How do I select no access for a form?"
+ ],
+ [
+  "What does no access mean for form submissions?",
+  "Can respondents see their answers after submitting?",
+  "How do I change what respondents can do after submitting a form?"
+ ],
+ [
+  "What does full access let respondents do on a form?",
+  "Can people edit their form answers after sending them?",
+  "What does the can comment option do for forms?"
+ ],
+ [
+  "How do I turn off the Notion logo on a form?",
+  "Can I make form responses anonymous?",
+  "Do web links hide the respondent's name automatically?"
+ ],
+ [
+  "Where do I find the respondent's name in a new form?",
+  "How do I capture who filled out a form from an existing database?",
+  "How do I copy my form link to share it?"
+ ],
+ [
+  "What should I do if I duplicate a template form?",
+  "How do I make sure form responses go to me instead of someone else?",
+  "Why do I need to make a new version of a template form?"
+ ],
+ [
+  "Can I fill out a Notion form on my phone?",
+  "Do I need to be logged in to submit a form?",
+  "What devices work for filling out forms?"
+ ],
+ [
+  "How do I get a copy of my form answers?",
+  "Do I need a Notion account to see my responses?",
+  "Who is allowed to edit their form responses?"
+ ],
+ [
+  "What permission do I need to view form responses?",
+  "Why is my form loading slowly?",
+  "How do I fix a slow form with lots of responses?"
+ ],
+ [
+  "Can I export a Form view of a database?",
+  "How do I export my form questions and responses?",
+  "Why isn't my Form view exporting?"
+ ],
+ [
+  "Where are my form responses saved by default?",
+  "What is the default name of the table that stores form responses?",
+  "Can I set up automations for my forms?"
+ ],
+ [
+  "How do I add an automation to my form?",
+  "How do I stop workspace members from making forms public?",
+  "Where is the setting to disable public form links?"
+ ],
+ [
+  "What happens to my live forms if I turn off public links?",
+  "Does turning off public links affect Notion Sites?",
+  "Will my published sites get taken down if I disable public links?"
+ ],
+ [
+  "Can I import data from other apps into Notion?",
+  "Can I use the Notion mobile app to import data?",
+  "How do I start an import in Notion?"
+ ],
+ [
+  "What file types can I directly import into Notion?",
+  "Can I import Word and PDF files into Notion?",
+  "Which external apps can I import data from?"
+ ],
+ [
+  "What are the different ways to start an import in Notion?",
+  "How do I use a slash command to import something?",
+  "Where is the Import button located on a page?"
+ ],
+ [
+  "Can I import multiple files at the same time?",
+  "Are there file types I cannot import together in bulk?",
+  "How do I check the progress of my import?"
+ ],
+ [
+  "How do Evernote notebooks and notes import into Notion?",
+  "Can I keep my Evernote structure when moving to Notion?",
+  "What do Evernote notebooks turn into in Notion?"
+ ],
+ [
+  "How do I start importing Evernote into Notion?",
+  "How do I connect my Evernote account to Notion?",
+  "How do I select which Evernote notebooks to move?"
+ ],
+ [
+  "How do I map Evernote note fields to a Notion database?",
+  "Where do my Evernote notebooks show up in Notion after importing?",
+  "Can I move my imported notes around in Notion?"
+ ],
+ [
+  "What things from Evernote can I import into Notion?",
+  "Can I import Evernote Teams into Notion?",
+  "How do notes inside a notebook look after importing?"
+ ],
+ [
+  "Is there a limit on how many Evernote notes I can import?",
+  "Can I see a progress bar while importing Evernote?",
+  "Why aren't my images showing up correctly after importing from Evernote?"
+ ],
+ [
+  "What should I do if my Evernote import gets stuck?",
+  "When should I ask for help with a stuck Evernote import?",
+  "Why do my note dates look wrong after importing?"
+ ],
+ [
+  "How do Trello boards and cards import into Notion?",
+  "How do I start importing from Trello into Notion?",
+  "How do I connect my Trello account to Notion?"
+ ],
+ [
+  "How do I map Trello fields to a Notion database?",
+  "What do I click to start the Trello import after mapping fields?"
+ ],
+ [
+  "What parts of Trello can be imported into Notion?",
+  "What Trello content does not transfer over?",
+  "How do Trello boards, lists, and cards turn into Notion features?"
+ ],
+ [
+  "What is the card limit for importing a Trello board?",
+  "How many Trello boards can I import at the same time?",
+  "Do Trello Power-Ups and automations move to Notion?"
+ ],
+ [
+  "How do I fix a loading spinner or connection error when linking Trello?",
+  "What should I do if I get an unrecognized URL error?",
+  "Why is my Trello account not connecting?"
+ ],
+ [
+  "How do I export my pages from Quip?",
+  "What file formats should I use when exporting from Quip to Notion?",
+  "How do I upload an exported Quip file into Notion?"
+ ],
+ [
+  "What types of Quip content can be imported into Notion?",
+  "Can I do a bulk export of multiple Quip pages at once?",
+  "What happens to polls and spreadsheets from Quip during an import?"
+ ],
+ [
+  "Why does a Quip migration take so long?",
+  "Do comments and revision history transfer from Quip?",
+  "What formatting issues might happen when moving from Quip to Notion?"
+ ],
+ [
+  "How do I fix messy tables when importing from Quip?",
+  "What should I do if my Quip images are missing after the import?",
+  "How do I fix a failed Quip import error?"
+ ],
+ [
+  "How do I export a single file from Dropbox Paper?",
+  "What file format do I use to download Dropbox Paper pages for Notion?",
+  "Where do I go in Notion to upload a Dropbox Paper document?"
+ ],
+ [
+  "How do I move all my Dropbox Paper documents to Notion at once?",
+  "How do I download my Dropbox Paper files as Word documents?",
+  "How do I export files from Hackpad?"
+ ],
+ [
+  "Can I import a ZIP file from Hackpad into Notion?",
+  "How do I convert multiple Hackpad Markdown files into Notion pages?",
+  "What should I do if Hackpad exports my files as a ZIP?"
+ ],
+ [
+  "How do I export my files from Hackpad as Markdown?",
+  "How do I import Hackpad Markdown files into Notion?",
+  "Can I import multiple Google Docs at the same time into Notion?"
+ ],
+ [
+  "What are the different ways to start a Google Doc import in Notion?",
+  "How do I connect my Google account to Notion for importing?",
+  "How do I choose which Google Doc to import into Notion?"
+ ],
+ [
+  "What parts of a Google Doc actually import into Notion?",
+  "Do comments and suggestions from Google Docs show up in Notion?",
+  "How does a Google Doc turn into a Notion page?"
+ ],
+ [
+  "What is the file size limit for importing files into Notion on the Free plan?",
+  "Do Google Docs checklists turn into to-do lists in Notion?",
+  "Why do I keep getting import failed errors when importing large batches?"
+ ],
+ [
+  "How do I fix file size errors when importing from Google Docs?",
+  "How do I fix formatting issues when importing Google Docs into Notion?",
+  "How do I import Word documents into Notion?"
+ ],
+ [
+  "What happens if I select multiple Word files to import into Notion?",
+  "What elements from a Word document actually import into Notion?",
+  "Do comments and tracked changes from Word files import into Notion?"
+ ],
+ [
+  "What is the file size limit for the Free plan?",
+  "Do merged tables import correctly into Notion?",
+  "What Word formatting features do not carry over?"
+ ],
+ [
+  "How do I fix distorted tables in Notion?",
+  "What should I do if formatting looks off or content is missing?",
+  "How do I import an Excel spreadsheet into Notion?"
+ ],
+ [
+  "How do I export an Excel file for Notion?",
+  "Where do I go in Notion to import a CSV file?",
+  "What should I do if my spreadsheet is too large?"
+ ],
+ [
+  "What is the benefit of using a ZIP import?",
+  "How do I import a ZIP file in Notion?",
+  "What file types are not supported in ZIP imports?"
+ ],
+ [
+  "What types of files turn into Notion databases?",
+  "What is the maximum size limit for a ZIP import?",
+  "Why might a ZIP import fail even if it is under the size limit?"
+ ],
+ [
+  "What should I do if a ZIP upload fails?",
+  "How do I check if my files partially imported after a failure?",
+  "How many files can cause a ZIP import to fail?"
+ ],
+ [
+  "How do I import an HTML file in Notion?",
+  "Can I import multiple HTML files at once?",
+  "How do I keep my folder structure when importing HTML?"
+ ],
+ [
+  "What HTML elements do not import into Notion?",
+  "How do HTML headings map to Notion?",
+  "What is the rate limit for HTML file imports?"
+ ],
+ [
+  "What should I do if my HTML import fails?",
+  "How do I fix missing images when importing?",
+  "How do I import a text or Markdown file?"
+ ],
+ [
+  "Can I import multiple Markdown files at the same time?",
+  "What types of Markdown formatting are supported?",
+  "What Markdown features do not import?"
+ ],
+ [
+  "What is the file size limit for imports?",
+  "How many file imports am I allowed to do in 12 hours?",
+  "How do I fix a large ZIP file that fails to import?"
+ ],
+ [
+  "How many Markdown files can I open at once in Notion Desktop?",
+  "How do I open a Markdown file with Notion on my computer?",
+  "What happens when I open a Markdown file in Notion?"
+ ],
+ [
+  "How do I make Markdown files open in Notion by double-clicking?",
+  "What file types are supported for opening in Notion?",
+  "How many files can I open at once by double-clicking?"
+ ],
+ [
+  "Can I import my WorkFlowy content into Notion?",
+  "How do I export my content from WorkFlowy?",
+  "How do I upload WorkFlowy files into Notion?"
+ ],
+ [
+  "What happens when you import a CSV file into Notion?",
+  "How do I import a CSV file using the settings menu?",
+  "How do I map CSV columns to Notion properties?"
+ ],
+ [
+  "Can I add a CSV file to a database I already have?",
+  "How do I merge a CSV file into an existing database?",
+  "How do CSV rows and columns turn into Notion items?"
+ ],
+ [
+  "Can I import new rollups from a CSV?",
+  "Can a new CSV create formulas in Notion?",
+  "How do I add relations when importing a CSV?"
+ ],
+ [
+  "What is the file size limit for CSV imports on a free plan?",
+  "Do CSV imports update existing rows?",
+  "Can I format the Title property in a CSV import?"
+ ],
+ [
+  "How do I fix garbled characters in my CSV import?",
+  "Why are my values with commas not showing up in Select properties?",
+  "What should I do if dollar amounts or percentages do not import correctly?"
+ ],
+ [
+  "What date format does Notion use for CSV imports?",
+  "What happens if a column has mixed data types?",
+  "How should my headers look when merging into an existing database?"
+ ],
+ [
+  "What happens when you import a PDF into Notion?",
+  "How do I import a PDF using a slash command?",
+  "Where in the settings can I find the PDF import option?"
+ ],
+ [
+  "Can I import more than one PDF at the same time?",
+  "Do I see progress when uploading multiple PDFs?",
+  "Does PDF formatting stay exactly the same after importing?"
+ ],
+ [
+  "What happens to tables when you import a PDF?",
+  "Do headings and quotes stay formatted when importing a PDF?",
+  "Are font and background colors supported in PDF imports?"
+ ],
+ [
+  "What is the PDF file size limit on paid plans?",
+  "Do scanned PDFs work well with Notion imports?",
+  "What happens to rich blocks when importing a PDF?"
+ ],
+ [
+  "Why does my PDF look weird after importing?",
+  "How do I make a database from a PDF?",
+  "Where do my imported pages go?"
+ ],
+ [
+  "Why did my import turn into a database?",
+  "Why is the formatting messed up after I import?",
+  "Can importing update my existing rows?"
+ ],
+ [
+  "Do imported blocks count against my storage limit?",
+  "Why can't I import from Evernote China?",
+  "Do imports count on the free plan?"
+ ],
+ [
+  "Can I import from Evernote Business?",
+  "How many files can I import at the same time?",
+  "Can I select multiple files to import at once?"
+ ],
+ [
+  "What is a workspace in Notion?",
+  "How is the Notion app interface split up?",
+  "Where does my work take place in Notion?"
+ ],
+ [
+  "What is the sidebar used for in Notion?",
+  "Where do my pages and databases show up?",
+  "Can I put pages inside other pages?"
+ ],
+ [
+  "What is the editor in Notion?",
+  "Where are the control menus located?",
+  "What happens when I start typing in Notion?"
+ ],
+ [
+  "How is the sidebar organized?",
+  "What are the tabs in the sidebar made of?",
+  "What tools will I use the most in the sidebar?"
+ ],
+ [
+  "How do I switch between different workspaces?",
+  "Where do I click to open the search window?",
+  "What does the Home button show me?"
+ ],
+ [
+  "How do I check my upcoming meetings and notes?",
+  "What is the Home button used for?",
+  "How do I use Notion AI to search for things?"
+ ],
+ [
+  "Where do I find the inbox icon?",
+  "How do I know if I have unread notifications in my inbox?",
+  "What is the Library section used for?"
+ ],
+ [
+  "Can I change or remove tabs?",
+  "How do I reset a tab back to how it started?",
+  "What is the purpose of the sidebar?"
+ ],
+ [
+  "What is the Teamspace section for?",
+  "Who can see the pages in the Shared section?",
+  "What goes into the Private section of my sidebar?"
+ ],
+ [
+  "How do I collapse a sidebar section to keep things clean?",
+  "How do I rearrange my sidebar sections?",
+  "What happens if I drag a page into the Private section?"
+ ],
+ [
+  "How do I add a page to my favorites?",
+  "How do I remove a page from my favorites?",
+  "Why should I use the Favorites section?"
+ ],
+ [
+  "Where can I find my deleted pages?",
+  "How do I open the template picker in Notion?",
+  "What can I do in the settings menu?"
+ ],
+ [
+  "How do I create a new page in Notion?",
+  "Is there a keyboard shortcut to add a page on desktop?",
+  "How do I make a new page on my phone?"
+ ],
+ [
+  "What happens when I hover over a page in the sidebar?",
+  "How do I add a subpage inside another page?",
+  "What options are in the page menu when I click the three dots?"
+ ],
+ [
+  "How do I see where my current page is located in the folder structure?",
+  "How do breadcrumbs work at the top of a page?",
+  "How can I see who else has access to the page I am viewing?"
+ ],
+ [
+  "What do greyed out profile pictures mean in Notion?",
+  "How do I know when someone else is editing the same block as me?",
+  "How do I change permission levels for people sharing a page?"
+ ],
+ [
+  "What does the copy link button do in Notion?",
+  "Can people view a page if I send them the link without giving them access?",
+  "How do I invite someone to a page using their email?"
+ ],
+ [
+  "What kind of options are found in this menu?",
+  "What features are included in the page menu?",
+  "Where can I find more settings for my page?"
+ ],
+ [
+  "How do I stop people from making accidental edits to my page?",
+  "What does locking a database do?",
+  "How do I move a page to a different workspace?"
+ ],
+ [
+  "How can I see who viewed my page and what changes were made?",
+  "How do I view past versions of my page?",
+  "Can I import documents from Google Docs or Trello into Notion?"
+ ],
+ [
+  "How do I download a page to my computer?",
+  "What file format are databases saved in when exported?",
+  "Can I export my pages as a PDF?"
+ ],
+ [
+  "Does a workspace work differently for teams compared to individuals?",
+  "Are team workspaces different from personal ones?",
+  "How does a workspace change when used with a team?"
+ ],
+ [
+  "Are new pages in a personal workspace private by default?",
+  "Can everyone in a teamspace see the same sidebar organization?",
+  "Who has different levels of permission on Notion's higher plans?"
+ ],
+ [
+  "Can I switch between workspaces with different email addresses?",
+  "How do I add workspaces from another email account?",
+  "Why won't the create or join button let me join a workspace?"
+ ],
+ [
+  "What is the Allowed Email Domains setting for?",
+  "How do I join a workspace if I can't use the button?",
+  "Can an admin invite me to a workspace?"
+ ],
+ [
+  "Why doesn't my sidebar have any sections?",
+  "How do I turn on sidebar sections?",
+  "When does a Teamspaces section appear in my sidebar?"
+ ],
+ [
+  "Does a Plus Plan subscription cover all my workspaces?",
+  "Do paid plans apply to the whole account?",
+  "Can I link content between completely separate workspaces?"
+ ],
+ [
+  "How can I migrate all my Notion content to a different workspace?",
+  "What happens to migrated content in the new workspace?",
+  "How do I move a page to a different workspace?"
+ ],
+ [
+  "What happens to sub-pages when I move a top-level page?",
+  "Can I recover something I deleted by accident?",
+  "Who should I contact if my whole account gets deleted?"
+ ],
+ [
+  "How long do you keep database backups?",
+  "Can you restore my old content from last week?",
+  "How do I log out of my Notion account?"
+ ],
+ [
+  "Where can I find Notion keyboard shortcuts?",
+  "Do I need a mouse to use Notion?",
+  "What does cmd/ctrl mean in the shortcut guides?"
+ ],
+ [
+  "How can I be a power user without knowing many shortcuts?",
+  "Are there any basic commands to remember for Notion?"
+ ],
+ [
+  "How do I search inside a page using the keyboard?",
+  "How do I copy a page link with a shortcut?",
+  "How do I go back to the previous page?"
+ ],
+ [
+  "How do I switch to dark mode with a shortcut?",
+  "How do I open a new Notion window?",
+  "How do I create a new page using keys?"
+ ],
+ [
+  "How do I open a new Notion tab?",
+  "How can I reopen a tab I just closed?"
+ ],
+ [
+  "How do I type an emoji using a colon?",
+  "How do I open the emoji picker on a Mac?",
+  "How do I open the emoji picker on Windows?"
+ ],
+ [
+  "How do I make text bold while typing?",
+  "How do I put strikethrough on text?",
+  "What symbol do I use for italics?"
+ ],
+ [
+  "How do I make a bulleted list?",
+  "How do I create a to-do checkbox?",
+  "How do I make a heading?"
+ ],
+ [
+  "How do I add a comment?",
+  "How do I make a line break?",
+  "How do I underline text using keyboard shortcuts?"
+ ],
+ [
+  "How do I add a link to text?",
+  "How do I make text strikethrough using the keyboard?",
+  "How do I add inline code with a shortcut?"
+ ],
+ [
+  "How do I indent content?",
+  "How do I change a block type?",
+  "How do I un-nest content?"
+ ],
+ [
+  "How do I change the color of text?",
+  "How do I highlight text?",
+  "How do I remove a text color?"
+ ],
+ [
+  "What are the shortcut keys for Mac users?",
+  "What are the shortcut keys for Windows?",
+  "Are shortcuts different on Linux?"
+ ],
+ [
+  "How do I create an H1 heading with a shortcut?",
+  "How do I make a to-do list using shortcut keys?",
+  "How do I create a bulleted list with keys?"
+ ],
+ [
+  "How do I make a toggle list with a shortcut?",
+  "How do I zoom in and out of the page?",
+  "How do I fill table cells to the right or down?"
+ ],
+ [
+  "How do I duplicate content on a Notion page?",
+  "Can I copy something by dragging and dropping?",
+  "What is the shortcut to copy a block while dragging?"
+ ],
+ [
+  "What is considered a block in Notion?",
+  "Are paragraphs and images considered blocks?",
+  "What kinds of things are blocks in Notion?"
+ ],
+ [
+  "How do I select the block I am currently in?",
+  "How do I open an image in full-screen?",
+  "How do I select multiple blocks up or down?"
+ ],
+ [
+  "How do I select multiple blocks at once using shift?",
+  "Where can I see the word and character count for selected blocks?",
+  "How do I delete selected blocks?"
+ ],
+ [
+  "How do I change the color or type of a block quickly?",
+  "How do I edit multiple database rows at the same time?",
+  "How do I move a selected block around?"
+ ],
+ [
+  "How do I expand or close all toggles in a list?",
+  "How do I reuse my last text or highlight color?",
+  "What does pressing cmd/ctrl + enter do on a block?"
+ ],
+ [
+  "What are the @ commands?",
+  "Where can I read about @ commands?",
+  "How do @ commands work in Notion?"
+ ],
+ [
+  "How do I tag someone in a comment?",
+  "How do I link another page in my workspace?",
+  "How do I add a date or due date?"
+ ],
+ [
+  "How do I set a reminder for myself?",
+  "How do I change the time of a reminder?",
+  "How do I close the mention menu without using it?"
+ ],
+ [
+  "What are double bracket commands?",
+  "How do I use bracket commands?",
+  "What does the double bracket shortcut do?"
+ ],
+ [
+  "How do I link to another page using brackets?",
+  "How do I create a sub-page inside my current page?",
+  "What happens to my page links if I rename the page?"
+ ],
+ [
+  "How do I create a new page in a different location?",
+  "How do I add a page to a specific database?",
+  "How do I use brackets to make a page somewhere else?"
+ ],
+ [
+  "What are plus commands?",
+  "How do I use the plus sign shortcut?",
+  "What does the plus menu do?"
+ ],
+ [
+  "How do I make a sub-page using the plus sign?",
+  "How do I create a new page somewhere else with a plus?",
+  "How do I choose where to put a new page?"
+ ],
+ [
+  "How do I link a page using the plus sign?",
+  "Does the plus page link update if I change the name?",
+  "How do I create an inline link with a plus?"
+ ],
+ [
+  "What happens when I type open brackets in Notion?",
+  "How do I open the slash menu in Notion?",
+  "What is the difference between typing [[ and +?"
+ ],
+ [
+  "How do I make a new text block in Notion?",
+  "What slash command creates a bulleted list?",
+  "How do I add a light gray divider line?"
+ ],
+ [
+  "How do I close the slash menu?",
+  "How do I mention someone in my page?",
+  "How do I add a reminder or date?"
+ ],
+ [
+  "How do I add a PDF to my page?",
+  "How do I upload an image in Notion?",
+  "How do I create a web bookmark?"
+ ],
+ [
+  "How do I add a video from YouTube?",
+  "How do I write code in Notion?",
+  "How do I make an exact copy of a block?"
+ ],
+ [
+  "How do I delete a block in Notion?",
+  "How do I create a Table of Contents?",
+  "How do I move a block to another page?"
+ ],
+ [
+  "What is Notion AI?",
+  "Where is Notion AI located?",
+  "What can I do with Notion AI?"
+ ],
+ [
+  "Which Notion plans have Notion AI?",
+  "Can free users try Notion AI?",
+  "Who needs to turn on high credit AI models?"
+ ],
+ [
+  "What is Notion AI?",
+  "Where does Notion AI live?",
+  "What kind of tasks can Notion AI help with?"
+ ],
+ [
+  "What can Notion AI do?",
+  "What are the main features of Notion AI?",
+  "What is Notion AI capable of?"
+ ],
+ [
+  "How does the Notion Agent work?",
+  "Can Notion AI search my Google Drive and Slack?",
+  "Can Notion AI take meeting notes and summarize them?"
+ ],
+ [
+  "Can Notion AI translate pages into different languages?",
+  "How does Notion AI help with databases?",
+  "Can I upload files for Notion AI to read?"
+ ],
+ [
+  "Does Notion AI follow my workspace access rules?",
+  "How does Notion AI handle math and reading files?",
+  "Is my private information safe with Notion AI?"
+ ],
+ [
+  "What can the Notion Agent do for me?",
+  "Can Notion Agent create and edit pages by itself?",
+  "Does Notion Agent just think or does it actually do the work?"
+ ],
+ [
+  "Can I customize my Notion Agent?",
+  "How do I teach the Notion Agent how to work?",
+  "Can I change how my agent looks and responds?"
+ ],
+ [
+  "Where does Notion AI find answers to my questions?",
+  "Can I use different AI models in Notion?",
+  "Does Notion AI search the web?"
+ ],
+ [
+  "Can Notion AI transcribe meetings?",
+  "How many images can I generate with the Beta limit?",
+  "When do the image generation limits reset?"
+ ],
+ [
+  "Can I edit existing images with Notion AI?",
+  "Which Notion plans include AI image generation?",
+  "Who can turn off AI image generation for a workspace?"
+ ],
+ [
+  "How do I use Notion AI to write something new?",
+  "Can Notion AI use other pages as context?",
+  "How do I edit existing text using AI?"
+ ],
+ [
+  "Can Notion AI translate a page for me?",
+  "What should I do if I don't like the changes Notion AI made?",
+  "Can Notion AI help me brainstorm ideas?"
+ ],
+ [
+  "How do I create an AI block in Notion?",
+  "Can an AI block summarize the page I am working on?",
+  "What command do I type to start an AI block?"
+ ],
+ [
+  "How do I give Notion AI more context for a custom output?",
+  "Can I mention dates when using Notion AI?",
+  "How do I select connected apps for Notion AI to use?"
+ ],
+ [
+  "How do I refresh the content in an AI block?",
+  "Can I change my AI block settings later?",
+  "Where do I click to translate a page into another language?"
+ ],
+ [
+  "Can Notion AI help me build a database?",
+  "Can Notion AI write database formulas?",
+  "Where can workspace owners find Notion AI settings?"
+ ],
+ [
+  "How do I let Notion use my workspace data to improve AI?",
+  "Can I connect third-party apps to Notion AI?",
+  "How do I turn on web search for Notion AI?"
+ ],
+ [
+  "How do I customize my Notion Agent?",
+  "Where are the settings for AI Meeting Notes?",
+  "How do I choose which AI models my team can use?"
+ ],
+ [
+  "How can I check how many AI credits my team has used?",
+  "When do my Notion AI credits refresh?",
+  "Can I set a spending limit for specific members?"
+ ],
+ [
+  "Why is my Notion AI temporarily paused?",
+  "What happens when we run out of AI usage?",
+  "How can workspace owners keep the team going after running out of credits?"
+ ],
+ [
+  "What is the keyboard shortcut to open Notion AI outside the app?",
+  "How do I change the Notion AI keyboard shortcut?",
+  "Where do I go in settings to customize my shortcuts?"
+ ],
+ [
+  "How do I open Notion AI using Siri?",
+  "Can I put a Notion AI shortcut on my iPhone home screen?",
+  "How do I set the iPhone 15 Pro action button to open Notion AI?"
+ ],
+ [
+  "Where can I read about Notion AI security and privacy?",
+  "How do I send feedback about Notion AI?",
+  "Does Notion use my feedback to train the AI?"
+ ],
+ [
+  "Can I turn off web search for Notion AI?",
+  "Why am I getting an error in Notion AI?",
+  "Do any AI models cost extra?"
+ ],
+ [
+  "Do any Notion AI models cost extra?",
+  "Why am I seeing a message about using up my AI usage?",
+  "Who can turn on high credit consumption AI models?"
+ ],
+ [
+  "What can I do with the Notion API?",
+  "How do I create custom internal connections in Notion?",
+  "Do partners ever require an internal connection token?"
+ ],
+ [
+  "Where do I manage personal access tokens in Notion?",
+  "How do I turn on Developer Mode?",
+  "What is the difference between personal access tokens and admin tokens?"
+ ],
+ [
+  "Where is the Connections tab in Notion?",
+  "Who is allowed to create integrations in Notion?",
+  "How do I start creating a new connection in Notion?"
+ ],
+ [
+  "Can I add a logo to my Notion connection?",
+  "How do I name my new Notion connection?",
+  "How do I choose which workspace to use with my connection?"
+ ],
+ [
+  "Why can't I see my correct account and workspaces in Notion?",
+  "Do I need to be logged into the web version of Notion?",
+  "How do I fix missing workspaces between desktop and web?"
+ ],
+ [
+  "How do I know if my internal connection was added successfully?",
+  "Where can I find my internal connection token?",
+  "What do I need an internal connection token for?"
+ ],
+ [
+  "Can I change the workspace for an existing internal connection?",
+  "How do I make a public connection in Notion?",
+  "Are all new Notion connections internal at first?"
+ ],
+ [
+  "Who can I share my public connection with?",
+  "What is the difference between any workspace and selected workspaces?",
+  "When should I choose selected workspaces?"
+ ],
+ [
+  "What happens if a workspace tries to install my connection and is not on the list?",
+  "Can my connection appear in the gallery if it is limited to certain workspaces?",
+  "Can I change who can install my connection after I create it?"
+ ],
+ [
+  "Where can I see a connection I own?",
+  "How do I change the workspace I am building in?",
+  "Do I have to start over if I switch my building workspace?"
+ ],
+ [
+  "Do I need to create a new connection to link it to a workspace?",
+  "What content capabilities can developers choose during setup?",
+  "What user information can the connection be set up to read?"
+ ],
+ [
+  "Where do users see the access level of a connection?",
+  "Where else does the connection access level appear besides the install screen?",
+  "What are connection webhooks used for?"
+ ],
+ [
+  "What happens when changes happen in pages shared with my connection?",
+  "Where can I find instructions for setting up webhooks?",
+  "What changes do connection webhooks currently not send notifications for?"
+ ],
+ [
+  "What should I use if I need notifications about user or workspace changes?",
+  "What is the difference between webhook actions and connection webhooks?",
+  "Can connection webhooks monitor multiple workspaces?"
+ ],
+ [
+  "How many actions can connection webhooks handle?",
+  "How are webhook actions different from connection webhooks?",
+  "Where are webhook actions configured?"
+ ],
+ [
+  "What is Notion Calendar?",
+  "How is Notion Calendar different from other calendar apps?",
+  "Why should I use Notion Calendar with my workspace?"
+ ],
+ [
+  "Does Notion Calendar sync with Google Calendar?",
+  "How do I link a Notion page to an event?",
+  "Can I manage both my personal and work schedules in one app?"
+ ],
+ [
+  "How many steps does it take to start using Notion Calendar?",
+  "What will I learn in this guide?",
+  "Can I manage my time and work together in Notion Calendar?"
+ ],
+ [
+  "Is Notion Calendar part of the main Notion app?",
+  "How do I get Notion Calendar on my computer?",
+  "How do I turn on meeting reminders?"
+ ],
+ [
+  "How do I see my Google or Apple calendars in Notion Calendar?",
+  "How do I link my Notion workspace?",
+  "How do I add Notion databases to my calendar?"
+ ],
+ [
+  "How do I schedule meetings once my calendars are connected?",
+  "Can I link Notion pages to calendar events?",
+  "How does Notion Calendar connect my events with my notes?"
+ ],
+ [
+  "How do I sign in to Notion Calendar?",
+  "What do I need to do first to use the app?",
+  "How do I install Notion Calendar?"
+ ],
+ [
+  "How do I see all my calendars in one place?",
+  "Can I block personal events on my work calendar?",
+  "How do I add a calendar account?"
+ ],
+ [
+  "How do I sync my work and personal calendars?",
+  "Can I see my Notion databases in my calendar?",
+  "Do I need to manually copy Notion events to my calendar?"
+ ],
+ [
+  "How do I open a Notion page from my calendar?",
+  "Can I link a Notion page to a calendar event?",
+  "How do I attach documents to a new event?"
+ ],
+ [
+  "Is there a countdown timer for my next event?",
+  "Where do I see the countdown for upcoming events?",
+  "How does Notion Calendar help international teams collaborate?"
+ ],
+ [
+  "How do I create a new event in the calendar?",
+  "Can I add video links like Zoom to my events?",
+  "How can my colleagues book time on my schedule?"
+ ],
+ [
+  "What is the keyboard shortcut to share my availability?",
+  "How do I check schedules in different time zones?",
+  "Can I view multiple time zones at once?"
+ ],
+ [
+  "How do I quickly jump back to today's date?",
+  "What shortcut moves me to the next week?",
+  "How do I use the arrow keys in the calendar?"
+ ],
+ [
+  "How do I jump to my next upcoming event?",
+  "How can I hide or show weekends?",
+  "Where can I see a list of all keyboard shortcuts?"
+ ],
+ [
+  "Where can I find all the available settings?",
+  "How do I open the command menu?",
+  "What happens when I connect databases to Notion Calendar?"
+ ],
+ [
+  "How do I see database items in my calendar?",
+  "What happens if my database items do not have a time?",
+  "Can I drag calendar events to update my Notion database?"
+ ],
+ [
+  "How do I use time-blocking with my database tasks?",
+  "How do Notion pages with dates show up in my calendar?",
+  "How do I track my team's product launches in my calendar?"
+ ],
+ [
+  "How do I track product launches in Notion Calendar?",
+  "How do all-day events look in my calendar?",
+  "How do I switch to the monthly view?"
+ ],
+ [
+  "How do I see scheduled articles and posts in my calendar?",
+  "Can I open my Notion drafts easily from the calendar?",
+  "How does Notion help me manage my meeting times?"
+ ],
+ [
+  "How do I share multiple meeting time slots using one link?",
+  "How long does a meeting share link stay active?",
+  "Where can I learn how to create a share link?"
+ ],
+ [
+  "Can I make recurring links for my meetings?",
+  "Where is the scheduling link button located?",
+  "What types of links can I create for meetings?"
+ ],
+ [
+  "Why is it hard to manage multiple calendars?",
+  "How do I stop meetings from overlapping with personal events?",
+  "How does conflict avoidance help with sharing availability?"
+ ],
+ [
+  "What does the conflict avoidance setting do?",
+  "How does the share availability link know when I am busy?",
+  "Which calendar events trigger conflict avoidance?"
+ ],
+ [
+  "What events count as busy on my calendar?",
+  "Does a tentative meeting count as busy?",
+  "How do I know if an event makes me look busy?"
+ ],
+ [
+  "How do I turn on conflict avoidance?",
+  "How do I stop double booking meetings?",
+  "How do I sync my calendars to avoid conflicts?"
+ ],
+ [
+  "How can participants cancel a meeting?",
+  "Where is the link to reschedule a meeting?",
+  "How do I change my meeting time using the email invite?"
+ ],
+ [
+  "Can I turn a Notion page into a website?",
+  "What kinds of things can I publish with Notion Sites?",
+  "How do I publish a resume or blog using Notion?"
+ ],
+ [
+  "What extra features do I get with a paid plan on Notion Sites?",
+  "Can I use my own custom domain for a Notion Site?",
+  "How do I add Google Analytics to my Notion website?"
+ ],
+ [
+  "Is making a Notion page public the same as using Notion Sites?",
+  "Can workspace owners block Notion Sites from being published?",
+  "How do I publish a Notion page to the web?"
+ ],
+ [
+  "How do I see my live Notion website?",
+  "Do changes update automatically on a published Notion site?",
+  "Can I put a Notion page on another website?"
+ ],
+ [
+  "How do I get the embed code for a Notion page?",
+  "How do I put a published Notion page into my website's HTML?",
+  "What happens to subpages when I publish a Notion page?"
+ ],
+ [
+  "How do I manage my published Notion site?",
+  "Where do I click to manage my site after publishing?",
+  "How do I open the publish menu for my site?"
+ ],
+ [
+  "How do I copy the link to my live Notion site?",
+  "How do I change the URL slug for my site?",
+  "What characters am I allowed to use in a slug?"
+ ],
+ [
+  "What is the maximum length for a slug?",
+  "Can home pages have slugs?",
+  "Can I use the same slug for two different pages?"
+ ],
+ [
+  "Can I reuse a slug after deleting a published page?",
+  "What happens to my slug if I delete my site?",
+  "How do I save a slug before deleting a page?"
+ ],
+ [
+  "How do I make my Notion site show up in Google search?",
+  "How do I let people duplicate my site as a template?",
+  "Can I edit my link title for search engines?"
+ ],
+ [
+  "How do I embed my Notion site into another page?",
+  "Where can I see all of my published sites?",
+  "How do I get the embed code for my site?"
+ ],
+ [
+  "Are there any important notes about publishing sites?",
+  "What should I keep in mind after publishing?",
+  "Is there any extra information to know?"
+ ],
+ [
+  "Why is my Notion site not showing up in search results yet?",
+  "How long does it take for Google to index a Notion site?",
+  "When will my site appear in search engines?"
+ ],
+ [
+  "What happens to my old paid templates when I sell them on Marketplace?",
+  "Can people still copy my templates from old Notion links after I move to Marketplace?",
+  "How do I keep a version of my template for third-party platforms?"
+ ],
+ [
+  "What personal info shows up in the webpage metadata when I publish a Notion page?",
+  "Does publishing a page reveal the email addresses of people who helped edit it?",
+  "Are profile photos shown in the web metadata of a published Notion page?"
+ ],
+ [
+  "Can anyone on the web view my published Notion Site?",
+  "Are subpages published automatically when I publish my main Notion Site?",
+  "Can people search or duplicate my Notion Site?"
+ ],
+ [
+  "Do I need to manually update my Notion Site when I change the page content?",
+  "How fast do changes show up on my Notion Site?",
+  "Will my Notion Site update automatically when I edit my page?"
+ ],
+ [
+  "Can I still be reached if my Notion Site is unpublished?",
+  "Why can people still see my page even after I unpublish my Notion Site?",
+  "How do I stop people with the link from accessing my unpublished page?"
+ ],
+ [
+  "How do I take my Notion Site off the web?",
+  "Where is the button to unpublish a Notion page?",
+  "How do I stop my page contents from being shared publicly?"
+ ],
+ [
+  "Can workspace owners block members from publishing Notion Sites?",
+  "How do Enterprise owners stop people from publishing sites?",
+  "What happens to live sites when I turn off publishing in my workspace settings?"
+ ],
+ [
+  "Does Notion let me use a custom domain for my site?",
+  "Can I link directly to a specific section or heading on my page?",
+  "What happens to my public page URLs if I change my workspace domain name?"
+ ],
+ [
+  "Do old links still work after changing my workspace domain?",
+  "How do I find my new published page URL?",
+  "What happens to my public page links if I change my domain?"
+ ],
+ [
+  "Why does my shared Notion link show an external site error?",
+  "How do I know if I shared the wrong Notion link?",
+  "Where do I find the correct link for a published page?"
+ ],
+ [
+  "Can I put a password on a Notion page?",
+  "How do I password protect my page?",
+  "Is there a way to lock my page with a password?"
+ ],
+ [
+  "How do I connect data between two tables in Notion?",
+  "What is a relation property in Notion used for?",
+  "How can I see multiple sets of data in the same database?"
+ ],
+ [
+  "How do I link a customer database to an items database?",
+  "What feature should I use to track which customers bought which items?",
+  "Can Notion show what items customers purchased?"
+ ],
+ [
+  "How do relation properties work in Notion databases?",
+  "Can I connect a restaurant database to a neighborhood database?",
+  "What happens when I add an item to the customers database?"
+ ],
+ [
+  "How do I connect meeting notes to my clients in Notion?",
+  "Can I link tasks to bigger projects?",
+  "How do I track which interviewer talked to which candidate?"
+ ],
+ [
+  "What do I need before I can relate two databases?",
+  "How many databases do I need to use relations?",
+  "Do I need to create two databases to connect them?"
+ ],
+ [
+  "How do I start making a relation in my database?",
+  "What do I search for after adding a new column?",
+  "How do I finish creating the new relation?"
+ ],
+ [
+  "How do I add an item from another database to a cell?",
+  "How do I remove an item from the relation column?",
+  "How do I add clothes that a customer bought?"
+ ],
+ [
+  "How do I change the database I am connected to?",
+  "Are database relations one-way or two-way by default?",
+  "Do relations to the same database work differently?"
+ ],
+ [
+  "What happens when I use a two-way relation?",
+  "Do edits show up in both databases?",
+  "If I add a customer in the Items database, does it show up in the Customers database?"
+ ],
+ [
+  "How do I turn on a two-way relation?",
+  "What toggle do I need to click for a related database?",
+  "Where can I see a preview of the two-way relation?"
+ ],
+ [
+  "How do I finish making two-way relation properties?",
+  "What button do I click to save the new relations?",
+  "How do I save my new relation setup?"
+ ],
+ [
+  "What am I actually doing when I create a relation?",
+  "Are Notion pages added into property fields with relations?",
+  "How are pages from one database stored in another using relations?"
+ ],
+ [
+  "How do I open and edit a page in the relation column?",
+  "How do I remove a related page?",
+  "Can I limit the number of pages in a relations property?"
+ ],
+ [
+  "How do I limit a relation to one page?",
+  "Why would I want to limit my relation to 1 page?",
+  "Can I restrict a database relation to a single page?"
+ ],
+ [
+  "How do I change how relations are displayed?",
+  "How do I hide an empty relation property?",
+  "Where is the property visibility setting for relations?"
+ ],
+ [
+  "Can I show properties from a linked page?",
+  "How do I show the owner of a related page in my FAQ database?",
+  "Why would I want to display linked page properties?"
+ ],
+ [
+  "How do I make the owner visible in my FAQ database?",
+  "Can I see linked properties along with my questions?",
+  "How do I show related page info in my database?"
+ ],
+ [
+  "How do I show or hide properties in a relation?",
+  "What are the steps to change what shows in a relation?",
+  "How do I add related database properties to my view?"
+ ],
+ [
+  "Can a database relate to itself?",
+  "How do I link items in the same database together?",
+  "What does the two-way relation setting do for a database?"
+ ],
+ [
+  "How does a self-relation work in a database?",
+  "What happens when I turn on a two-way relation for the same database?",
+  "How do I set up next and previous tasks using relations?"
+ ],
+ [
+  "How do I set up next and previous task properties?",
+  "How do I hide a relation property I don't want to see?",
+  "How do I name properties in a two-way relation?"
+ ],
+ [
+  "What is a rollup used for?",
+  "How do I keep a self-relation strictly one-way?",
+  "Can you give an example of what rollups do?"
+ ],
+ [
+  "How do I create a rollup column?",
+  "What settings do I need to choose when I click a rollup cell?",
+  "How do I start linking my data with a rollup?"
+ ],
+ [
+  "How do I calculate total spending using a rollup?",
+  "What settings do I pick for a price rollup example?",
+  "How do I set the decimal points in a rollup?"
+ ],
+ [
+  "How does a rollup show the total money a customer spent?",
+  "What happens when I set up the rollup for item prices?",
+  "How do I add up prices of related items?"
+ ],
+ [
+  "What kinds of calculations can I use in a rollup?",
+  "Are there different types of rollup calculations?",
+  "What math options are available for rollups?"
+ ],
+ [
+  "What does the show original calculation do in a rollup?",
+  "How does count all differ from count values?",
+  "What does show unique values mean?"
+ ],
+ [
+  "How do I count empty cells with a rollup?",
+  "What does count not empty do?",
+  "How does count unique values work?"
+ ],
+ [
+  "How do I show the percentage of empty cells in a rollup?",
+  "What does percent not empty do?",
+  "How do I check what percentage of related pages have values?"
+ ],
+ [
+  "When can you sort rollups?",
+  "Which properties work with rollup calculations like sum or average?",
+  "Can I sort text rollups?"
+ ],
+ [
+  "How do I find the average of related pages?",
+  "What does the median rollup calculation do?",
+  "How do I find the lowest number in a rollup?"
+ ],
+ [
+  "How does the Max calculation work?",
+  "What does the range calculation do?",
+  "How is the rollup range calculated?"
+ ],
+ [
+  "What rollup calculations work with dates?",
+  "How do I find the earliest date in related pages?",
+  "How do I calculate the time span between dates in a rollup?"
+ ],
+ [
+  "How do I apply calculations to a rollup column?",
+  "How do I find the total money spent by customers?",
+  "How do I select the sum option in a table?"
+ ],
+ [
+  "What happens to relations when I export to CSV?",
+  "Can I export relation properties?",
+  "Can I re-import a CSV to restore relations?"
+ ],
+ [
+  "What happens when I duplicate a database with a relation?",
+  "Will a duplicated database stay connected as a 2-way relation?",
+  "Can I change a duplicated relation back to a 2-way sync?"
+ ],
+ [
+  "Can I roll up a rollup property?",
+  "Why can't I roll up another rollup?",
+  "What should I roll up instead of a rollup?"
+ ],
+ [
+  "What are reminders in Notion used for?",
+  "How do Notion reminders work?",
+  "Why should I use reminders in Notion?"
+ ],
+ [
+  "How do I add a reminder on a Notion page?",
+  "Can I change the time and date of a reminder after making it?",
+  "Why did my Notion reminder turn red?"
+ ],
+ [
+  "How do I set a reminder for someone else in Notion?",
+  "Can I add reminders inside a database?",
+  "How do I remind another person on a page?"
+ ],
+ [
+  "How do I set up a reminder in a database?",
+  "How do I edit the date for a database reminder?",
+  "How will I know when a reminder goes off?"
+ ],
+ [
+  "Where do I see notifications for Notion reminders?",
+  "Will Notion send me an email for a reminder if the app is closed?",
+  "Do I get push notifications on my phone for Notion reminders?"
+ ],
+ [
+  "Where do reminders appear in my Notion inbox?",
+  "Why can't I see my reminders in the inbox?",
+  "How do I set a reminder for a teammate in Notion?"
+ ],
+ [
+  "Can I set repeating reminders in Notion?",
+  "Does Notion support recurring reminders?",
+  "Will Notion add recurring reminders in the future?"
+ ],
+ [
+  "How do I find things in Notion?",
+  "Why is search important in Notion?",
+  "How do I search for a page or content in Notion?"
+ ],
+ [
+  "How do I open the search feature?",
+  "Is there a keyboard shortcut for search?",
+  "Where is the search button located?"
+ ],
+ [
+  "How do I search for an exact phrase?",
+  "Where can I see my recently viewed pages?",
+  "What do labels like most viewed mean in search?"
+ ],
+ [
+  "How do I use Notion AI to search?",
+  "Can I search connected apps in Notion?",
+  "How do I filter search results by author?"
+ ],
+ [
+  "How do I open a search result in a new tab?",
+  "How do I quickly jump to my settings?",
+  "Can I use search to go to my home page?"
+ ],
+ [
+  "Can I use Notion search outside the app?",
+  "How do I open Command Search on desktop?",
+  "Do I need to bring Notion to the foreground to search?"
+ ],
+ [
+  "How do I turn off Command Search?",
+  "How do I hide Notion in the Mac menu bar?",
+  "How do I stop Notion from opening at login?"
+ ],
+ [
+  "How do I stop Notion from opening automatically on Mac?",
+  "How do I stop Notion from launching at login on Windows?",
+  "How do I copy a search result link quickly?"
+ ],
+ [
+  "What can Notion AI search through?",
+  "Where is the Notion AI button located?",
+  "How do I use Notion AI to do research?"
+ ],
+ [
+  "Where can I sort and filter my search results?",
+  "Can I sort things while I am searching?",
+  "How do I find what I am looking for faster in search?"
+ ],
+ [
+  "What does the Best Matches sort do?",
+  "How does Last Edited Newest First work?",
+  "What is the difference between newest and oldest edited sort?"
+ ],
+ [
+  "How do I sort by when a page was created?",
+  "What does Created Oldest First show me?",
+  "Can I see newly created content first?"
+ ],
+ [
+  "What are my filter options?",
+  "How can I filter my search results?",
+  "Where do I find the filter choices?"
+ ],
+ [
+  "How do I search only page titles?",
+  "Can I filter search results by a specific person?",
+  "How do I search inside specific pages?"
+ ],
+ [
+  "How do I filter search results by a date range?",
+  "Can I pick custom dates for my search filter?",
+  "How do I see search results from the last 7 days?"
+ ],
+ [
+  "What do I see when I first open search?",
+  "Does the search window show pages I visited recently?",
+  "How do I check my recently visited pages?"
+ ],
+ [
+  "What does the database search bar look for?",
+  "Does database search look inside page contents?",
+  "How do I search for a status in a database?"
+ ],
+ [
+  "What does workspace search look into?",
+  "Can I search inside database pages?",
+  "Where does workspace search find content?"
+ ],
+ [
+  "How do I search inside a specific page?",
+  "What shortcut do I use to find text on a page?",
+  "How do I open the search window on a page?"
+ ],
+ [
+  "Do search results show comments and discussions?",
+  "Can I search for people mentions like @Doug?",
+  "Are date mentions included in the search results?"
+ ],
+ [
+  "Can I search using Chinese, Japanese, and Korean characters?",
+  "Does search work with CJK characters?",
+  "How do I send search feedback to Notion?"
+ ],
+ [
+  "Can I customize my recent searches and filters?",
+  "How do I pin a page to the top of my sidebar?",
+  "Is there a way to save frequently visited pages?"
+ ],
+ [
+  "Where is the share button located in Notion?",
+  "How do I share my work with other people?",
+  "Why does Notion have permission levels?"
+ ],
+ [
+  "How do I publish a page to the web?",
+  "How do I copy a page link to share with others?",
+  "Where do I go to see who has access to a page?"
+ ],
+ [
+  "How do I share a page with specific people?",
+  "How do I invite someone who isn't in my workspace?",
+  "What happens if I invite someone with my organization's email domain?"
+ ],
+ [
+  "Where do shared pages show up in my sidebar?",
+  "What is a teamspace?",
+  "How many ways are there to share pages with a teamspace?"
+ ],
+ [
+  "How do I create a new page inside a teamspace?",
+  "How do I move an existing page into a teamspace?",
+  "Who can see pages inside a default teamspace?"
+ ],
+ [
+  "How do I check if a teamspace is a default teamspace?",
+  "Where do I find teamspace settings?",
+  "Why might I not be able to share a page with a guest?"
+ ],
+ [
+  "Why is my guest being added as a member instead?",
+  "What happens if a guest's email domain is not allowed?",
+  "Why won't my workspace let me add guests?"
+ ],
+ [
+  "What happens if my workspace is out of guest spots?",
+  "How do enterprise rules affect inviting guests?",
+  "How can I check how someone will be added before I invite them?"
+ ],
+ [
+  "What is a Notion guest?",
+  "How do people with company email domains join?",
+  "What does a guest need to do to open a shared page?"
+ ],
+ [
+  "How do I manage who can access my page?",
+  "Where is the Share button located?",
+  "How do I configure general page access?"
+ ],
+ [
+  "What does \"Only people invited\" mean?",
+  "How can everyone in my workspace find my page?",
+  "How do I hide a page from search results?"
+ ],
+ [
+  "Can people without a Notion account open a public link?",
+  "Do visitors need to log in to leave a comment on a page?",
+  "How do I set an expiration date for a public link?"
+ ],
+ [
+  "Can enterprise owners turn off public sharing links?",
+  "Where do I go in settings to disable public links?",
+  "How do I stop people from publishing sites and forms?"
+ ],
+ [
+  "Can I set different access levels for different groups of people?",
+  "Why should I assign different permission levels to people?",
+  "How do permission levels help keep information private?"
+ ],
+ [
+  "What can someone with full access do on a page?",
+  "Can people with \"can edit\" access share the page with others?",
+  "What is the difference between full access and can edit?"
+ ],
+ [
+  "Where is the \"can edit content\" permission used?",
+  "Can people with \"can edit content\" change the database structure?",
+  "What are people allowed to do with \"can edit content\" access?"
+ ],
+ [
+  "What plans offer the \"can create\" permission level?",
+  "Can people with \"can create\" access see other people's database entries?",
+  "When should I use the \"can create\" permission level?"
+ ],
+ [
+  "Can someone with \"can comment\" access edit the page?",
+  "What is the difference between \"can comment\" and \"can view\"?",
+  "Can people with \"can view\" access read the page content?"
+ ],
+ [
+  "Where do I go to approve permission change requests?",
+  "How do I change someone's permission level on a page?",
+  "Where is the Share button located on a page?"
+ ],
+ [
+  "How do I make a page private?",
+  "How do I stop sharing a page with others?",
+  "Where do I drag a page in the sidebar to hide it?"
+ ],
+ [
+  "What plans include page-level access in databases?",
+  "Can I set permissions for specific people in a database?",
+  "How do person properties work in a database?"
+ ],
+ [
+  "How can I let ticket creators edit only their own tickets?",
+  "Can hiring managers only see their own candidates?",
+  "How do I restrict contractors to their own tasks?"
+ ],
+ [
+  "Do database permissions apply to linked views?",
+  "Where do permissions assigned through a person property apply?",
+  "How do I set permissions for a created by property?"
+ ],
+ [
+  "What are the steps to set page-level access in a database?",
+  "Where do I click to add a new rule for page-level access?",
+  "Do I need to open the source database to set permissions?"
+ ],
+ [
+  "What happens if my database has multiple data sources?",
+  "How do I add permissions for another person property?",
+  "Are people notified when they are mentioned in database properties?"
+ ],
+ [
+  "What determines how people interact with database content after setting page-level access?",
+  "Does database access affect how others interact with the content?",
+  "How does user access change database interactions?"
+ ],
+ [
+  "What happens if someone already has access to the database?",
+  "Can someone get edit access through a page-level rule if they only had comment access?",
+  "How do page-level rules affect task permissions for specific people?"
+ ],
+ [
+  "Why does Anna get an error when she tries to open the task database?",
+  "What happens if I have full database access and give Anna access only to her assigned task?",
+  "Can someone view a database if they only have access to a single page inside it?"
+ ],
+ [
+  "How can Anna view and work on Task 1 if she has no database access?",
+  "What are the ways to let someone work on an assigned task without database access?",
+  "How does an assignee open a task they have page-level access to?"
+ ],
+ [
+  "How does Anna know she was assigned a task in Notion?",
+  "Can Anna use a linked database view to see her assigned tasks?",
+  "What happens when I share a linked view of a task database with Anna?"
+ ],
+ [
+  "Can people with page-level access create new pages in the database?",
+  "How do I let users create new pages if they only have page-level access?",
+  "Do I need forms to allow page creation for restricted users?"
+ ],
+ [
+  "What happens if a user has two different permission levels in Notion?",
+  "Why can a user do things I didn't give them permission to do?",
+  "Does Notion use the highest or lowest permission level given to a user?"
+ ],
+ [
+  "How can workspace access affect page-level permissions?",
+  "What should I check if a restricted user has too much access?",
+  "Can workspace-wide settings override my page permissions?"
+ ],
+ [
+  "How do I delete a permission rule in Notion?",
+  "Where do I click to remove a specific person's permission rule?",
+  "Do subpages automatically inherit permissions from their parent pages?"
+ ],
+ [
+  "Who sets the default permissions for content in a teamspace?",
+  "How do default teamspace permissions affect new pages?",
+  "What happens if a workspace member gets broader access than what was originally set?"
+ ],
+ [
+  "What happens when I move a shared page to my Private section?",
+  "Does moving a parent page to private remove access to its subpages?",
+  "Can people still access a page set to \"Anyone with link\" even if they don't have the direct link?"
+ ],
+ [
+  "How can a page be accessed if it's linked from a broader page?",
+  "Can a page be accessed through a two-way relation?",
+  "What happens if a page is nested inside a more broadly shared page?"
+ ],
+ [
+  "How do I know who has access to a page?",
+  "What does it mean when an avatar is faded out?",
+  "What happens when I click on an active avatar?"
+ ],
+ [
+  "How can I tell what part of the page someone is looking at?",
+  "Where do I click to see who last edited a page?",
+  "How do I check when a page was last edited?"
+ ],
+ [
+  "How do I ask for access to a page I cannot open?",
+  "How do I request edit access if I can only view a page?",
+  "Where is the Share button located to request more permissions?"
+ ],
+ [
+  "Who gets my request when I ask for edit access?",
+  "What should I do if my edit access was accepted but I still cannot edit?",
+  "Where can workspace owners find security settings for content sharing?"
+ ],
+ [
+  "Why was my invited guest added as a member instead?",
+  "Why does Notion add people with my organization's email domain as members?",
+  "Do people with my organization's domain count toward the guest limit?"
+ ],
+ [
+  "Who are guests meant for in Notion?",
+  "How do I add someone as a guest?",
+  "What counts as one of my organization's email domains?"
+ ],
+ [
+  "How do I share a proposal with a client?",
+  "How do I publish a Notion page as a website?",
+  "Why can't I find my Export button?"
+ ],
+ [
+  "Why is the Export button missing from my menus?",
+  "How do I turn off the Disable Export setting?",
+  "Who can change the export settings in a workspace?"
+ ],
+ [
+  "Can I limit access to different parts of a database?",
+  "How do I restrict who can see certain database pages?",
+  "Can I assign permissions based on who created a database page?"
+ ],
+ [
+  "Are there pre-made templates in Notion?",
+  "How do I use Notion templates for different challenges?",
+  "Where can I find starter templates in my workspace?"
+ ],
+ [
+  "Where are the templates when I first sign up?",
+  "How do I delete a template I don't want?",
+  "Can I remove the onboarding templates from my sidebar?"
+ ],
+ [
+  "How do I delete a template page?",
+  "What is Notion's Marketplace?",
+  "Where can I find templates made by other users?"
+ ],
+ [
+  "How do I access the Notion Marketplace?",
+  "How do I add a template to my workspace?",
+  "How do I buy a paid template in Notion?"
+ ],
+ [
+  "Can I turn my own page into a template?",
+  "How do I make a reusable page template in my workspace?",
+  "How do I duplicate a page template when I need a new copy?"
+ ],
+ [
+  "How do I duplicate content quickly?",
+  "Can I make templates for databases?",
+  "Where can I send my template ideas?"
+ ],
+ [
+  "What are the different user roles in Notion?",
+  "Who can be in a Notion workspace?",
+  "What types of users are there in a workspace?"
+ ],
+ [
+  "Who are workspace members?",
+  "What can members do in Notion?",
+  "Are members usually people from the same company?"
+ ],
+ [
+  "Do I have to pay for members on the Free Plan?",
+  "What is the block limit for free workspaces with multiple members?",
+  "How do paid plans charge for members?"
+ ],
+ [
+  "Do restricted members cost money?",
+  "What can restricted members do?",
+  "Do I need domain verification for restricted members?"
+ ],
+ [
+  "How are restricted members different from regular members?",
+  "In what ways do restricted members have fewer permissions?",
+  "What limitations do restricted members have?"
+ ],
+ [
+  "Can restricted members create teamspaces?",
+  "Can restricted members share pages with anyone?",
+  "How does page access work for restricted members?"
+ ],
+ [
+  "Can restricted members use Connect to link apps?",
+  "Can restricted members use Notion agents?",
+  "Can restricted members create private pages?"
+ ],
+ [
+  "Where can I find restricted member controls?",
+  "Do restricted members have a lower level of access than regular members?",
+  "How do I give restricted members lower access in a teamspace?"
+ ],
+ [
+  "How do I make a permission group for teamspace members?",
+  "How do I change a teamspace member's access level?",
+  "How do I add a permission group to a teamspace?"
+ ],
+ [
+  "How do restricted members find a teamspace?",
+  "How many ways are there to give a restricted member teamspace access?",
+  "Do restricted members see all teamspaces automatically?"
+ ],
+ [
+  "How do I add a restricted member to a teamspace one by one?",
+  "How do I add restricted members using a permission group?",
+  "What is the best way to add many restricted members to a teamspace?"
+ ],
+ [
+  "Who are guests in the workspace?",
+  "What kind of people are usually invited as guests?",
+  "Can guests be people from a different company email domain?"
+ ],
+ [
+  "Can guests get workspace-wide access?",
+  "Can guests adjust workspace settings or billing?",
+  "Are guests allowed to add new members to the workspace?"
+ ],
+ [
+  "When can a guest create private pages?",
+  "Who are temporary members?",
+  "How long do temporary members have access to the workspace?"
+ ],
+ [
+  "Do temporary members use a paid seat?",
+  "Who can add temporary members to the workspace?",
+  "Can admins extend a temporary member's access?"
+ ],
+ [
+  "What is a membership admin?",
+  "Can a membership admin change workspace settings?",
+  "Who can become a membership admin?"
+ ],
+ [
+  "What does an organization owner do?",
+  "Can organization owners share admin duties with other members?",
+  "How do organization owners assign custom admin roles?"
+ ],
+ [
+  "How do I change someone's role in a workspace?",
+  "Where do I go to change a member's role in settings?",
+  "Can I turn a guest into a regular member?"
+ ],
+ [
+  "How do I make someone an organization owner?",
+  "Who has the power to appoint a new organization owner?",
+  "Where is the manage organization option located?"
+ ],
+ [
+  "How do I remove a member from a workspace?",
+  "How do I remove a guest from a workspace?",
+  "Who is allowed to remove members or guests?"
+ ],
+ [
+  "What happens to private pages when a member is removed?",
+  "Do private pages come back if a member is invited again?",
+  "What is restored if a user rejoins within 30 days?"
+ ],
+ [
+  "When should I add someone as a guest?",
+  "How do I choose between a guest and a restricted member?",
+  "What are the rules for adding a guest?"
+ ],
+ [
+  "When should I use a restricted member instead of a guest?",
+  "Can restricted members use Notion AI?",
+  "Do restricted members get access to all pages in a teamspace?"
+ ],
+ [
+  "Can I turn a database into a wiki in Notion?",
+  "How do I turn a page into a wiki?",
+  "What are wikis and verified pages used for?"
+ ],
+ [
+  "What permissions do I need to make a page a wiki?",
+  "Can I turn any page into a wiki?",
+  "How many default views do wikis have?"
+ ],
+ [
+  "What does the Home view in a wiki show?",
+  "How do I customize the Home page of a wiki?",
+  "What is the All pages view in a wiki?"
+ ],
+ [
+  "What does the Pages I own view show?",
+  "How can I see just the pages I own in a wiki?",
+  "Are wiki pages shown in a database view?"
+ ],
+ [
+  "Can I add new views to a wiki?",
+  "How do I change a wiki page back to a regular page?",
+  "What is missing from the layout menu on wiki home pages?"
+ ],
+ [
+  "What does a verified page look like in Notion search?",
+  "How do I know if a page's verification has expired?",
+  "How long can I keep a page verified?"
+ ],
+ [
+  "Who is automatically set as the owner of a new wiki page?",
+  "Can I change who owns a wiki page?",
+  "How do I verify a wiki page I own?"
+ ],
+ [
+  "How do I verify a page from a database view?",
+  "What happens when a page's verification expires?",
+  "Which Notion plans include the page verification feature?"
+ ],
+ [
+  "How do I verify a page that is not a wiki?",
+  "What permission do I need to verify a page?",
+  "Can I verify a page for a specific amount of time?"
+ ],
+ [
+  "What is required for a page to be verified?",
+  "How do I add an owner to a verified page?",
+  "What plans include the page verification feature?"
+ ],
+ [
+  "Can I verify all pages in a database at once?",
+  "How do I add verification to an entire database?",
+  "Is database verification available for wikis?"
+ ],
+ [
+  "How do I add a verification property to a database?",
+  "Who automatically becomes the owner of a new page?",
+  "How do I choose how long a database page is verified for?"
+ ],
+ [
+  "How do I change the owner settings for a database?",
+  "Can a database page have more than one owner?",
+  "How do I remove verification from a normal page?"
+ ],
+ [
+  "How do I remove verification from a database page?",
+  "Where can I see all verified pages in my workspace?",
+  "Can I filter verified pages by owner?"
+ ],
+ [
+  "Can I have multiple workspaces in Notion?",
+  "How do I customize my Notion workspace?",
+  "How can I find a specific setting in Notion?"
+ ],
+ [
+  "How do I use the settings search bar in Notion?",
+  "How do I know where a setting is located?",
+  "What happens when I click a search result in Notion settings?"
+ ],
+ [
+  "Why am I not seeing a setting when I search?",
+  "Why can't I see certain settings in Notion?",
+  "Are all settings searchable in Notion right now?"
+ ],
+ [
+  "What are sidebar presets?",
+  "How do I set up sidebar tabs for new members?",
+  "Where do I go to change sidebar settings?"
+ ],
+ [
+  "How do I change my workspace name?",
+  "How do I change my workspace icon?",
+  "Where do I update my workspace details?"
+ ],
+ [
+  "How do I let people with specific email domains join automatically?",
+  "How do I set an allowed email domain for my workspace?",
+  "Where do I add trusted email domains in Notion?"
+ ],
+ [
+  "Why can't I add a certain email domain to my workspace?",
+  "How do I add an email domain that isn't showing up?",
+  "Will adding allowed domains cost me money?"
+ ],
+ [
+  "Can I download all my Notion data?",
+  "What file formats can I use to export my Notion workspace?",
+  "How do I export my workspace to PDF?"
+ ],
+ [
+  "Are private pages included when I export my workspace?",
+  "How do I include private pages in a workspace export?",
+  "Do teamspace settings affect what gets exported?"
+ ],
+ [
+  "How do I export all my workspace content?",
+  "How long does the Notion export download link last?",
+  "How do I navigate my exported Notion files?"
+ ],
+ [
+  "Can I export my workspace on my phone?",
+  "Can I easily restore my workspace by uploading the exported file?",
+  "What user details are included in the member CSV export?"
+ ],
+ [
+  "How do I download my workspace members as a CSV file?",
+  "Where do I go to turn on page view analytics?",
+  "Who can see the page view analytics once they are turned on?"
+ ],
+ [
+  "Can I undo deleting my workspace?",
+  "What happens to my private pages when I delete my workspace?",
+  "Will other users lose access when I delete the workspace?"
+ ],
+ [
+  "Where do I go after I delete my workspace?",
+  "What happens if I don't belong to any other workspaces after deleting one?",
+  "Am I redirected to the sign up page if I delete my only workspace?"
+ ],
+ [
+  "How do I delete my entire workspace?",
+  "What do I need to type to confirm workspace deletion?",
+  "Where is the delete button located in the settings?"
+ ],
+ [
+  "Where can I use custom emojis?",
+  "How do I add my own custom emoji?",
+  "Can workspace owners delete emojis that other people created?"
+ ],
+ [
+  "Where do I go to change my workspace security settings?",
+  "Why would I want to change my security settings?",
+  "Are all security settings available on every plan?"
+ ],
+ [
+  "Which plans can use the page access requests from non-members setting?",
+  "Who is allowed to request adding other members?",
+  "Can page guests ask to become workspace members?"
+ ],
+ [
+  "How do I stop members from publishing Notion sites?",
+  "What happens to my forms if I disable publishing?",
+  "Can I block people from moving pages to other workspaces?"
+ ],
+ [
+  "How do I stop people from exporting Notion pages?",
+  "Can I let normal members invite guests to pages?",
+  "How do members ask to add guests?"
+ ],
+ [
+  "How do members request to add guests?",
+  "Who is allowed to add restricted members to teamspaces?",
+  "Who can add restricted members to specific pages?"
+ ],
+ [
+  "Can restricted members make new private pages?",
+  "What happens to old private pages if I turn off creation?",
+  "How do I change how long deleted pages stay in the trash?"
+ ],
+ [
+  "How long are pages kept after they are deleted from the trash?",
+  "Can I set a retention time for deleted Notion pages?",
+  "Where can I change page retention settings?"
+ ],
+ [
+  "How do I contact Notion about the Enterprise Plan?",
+  "What plans let me verify a workspace domain?",
+  "Where is the form to talk to Notion sales?"
+ ],
+ [
+  "How do I verify my workspace domain in Notion?",
+  "What do I do if my domain verification says pending?",
+  "How do I update my DNS record for Notion domain verification?"
+ ],
+ [
+  "What plans support SAML SSO in Notion?",
+  "Where can I read more about setting up SAML SSO?",
+  "Why can't I see these settings on my Plus Plan?"
+ ],
+ [
+  "Why can't I see workspace settings even though I'm on a Plus Plan?",
+  "How do I check if I am a Workspace owner?",
+  "What should I do if I need to change my membership status?"
+ ],
+ [
+  "Why won't it let me add a new domain to Allowed Email Domains?",
+  "How do I add a new email domain that isn't available yet?",
+  "Does Notion allow custom domains for Notion sites?"
+ ],
+ [
+  "How do I move all my Notion content to a different workspace?",
+  "What happens to my pages when I migrate them to a new workspace?",
+  "How do I use the Move to option for my top-level pages?"
+ ],
+ [
+  "Where do sub-pages go when I move top-level pages to another workspace?",
+  "How can I get back a page I accidentally deleted permanently?",
+  "Can support help me recover a deleted workspace or account?"
+ ],
+ [
+  "Does Notion keep backups of my database?",
+  "Can I restore a snapshot of my content from the past month?",
+  "How far back can Notion restore my deleted content?"
+ ],
+ [
+  "What is Notion primarily used for?",
+  "How is Notion different from a regular word processor?",
+  "How many tools do I need to learn to create a page in Notion?"
+ ],
+ [
+  "What does the plus icon do in Notion?",
+  "How do I open the menu to add new content types to my page?",
+  "Where does the plus icon appear when I am writing?"
+ ],
+ [
+  "What does the drag handle icon do in Notion?",
+  "How do I turn a bullet point into a checkbox?",
+  "How do I change the color or background of a text block?"
+ ],
+ [
+  "How do I copy a link to a specific block?",
+  "How do I make a copy of a block?",
+  "How do I use AI to edit a block?"
+ ],
+ [
+  "How do I ask Notion AI a question?",
+  "How can I see how many words are in my selection?",
+  "Where can I check the character count in Notion?"
+ ],
+ [
+  "What is the easiest way to add content in Notion?",
+  "How do I change the color of a block using a shortcut?",
+  "How do I delete a block using a shortcut?"
+ ],
+ [
+  "How do I open the block menu?",
+  "Where do I find my most used blocks?",
+  "How do I change a block's color to red?"
+ ],
+ [
+  "What kinds of content can I add to Notion?",
+  "Where can I find the full list of content types?",
+  "How do I open the block menu?"
+ ],
+ [
+  "How do I add a sub-page inside my page?",
+  "What is the shortcut for a to-do list?",
+  "How do I create a table?"
+ ],
+ [
+  "What is the shortcut for a bulleted list?",
+  "How do I make a toggle list?",
+  "Can I open and close all toggles at once?"
+ ],
+ [
+  "How do I create a divider line?",
+  "How do I make a link to another page?",
+  "How do I create a boxed callout with an emoji?"
+ ],
+ [
+  "How do I add a database inside a Notion page?",
+  "What are the different database views I can use?",
+  "Can I add a calendar to my Notion page?"
+ ],
+ [
+  "How do I add pictures to my page?",
+  "Can I embed YouTube videos in Notion?",
+  "How do I add a code block with formatting?"
+ ],
+ [
+  "How many apps can I embed into Notion?",
+  "What command do I use to embed other apps?",
+  "Are there shortcuts for popular apps in Notion?"
+ ],
+ [
+  "Can I put Google Docs inside Notion?",
+  "How do I add a clickable tweet to my page?",
+  "Can I display a PDF directly on my Notion page?"
+ ],
+ [
+  "Can I embed a Figma file in Notion?",
+  "How do I add a Typeform survey to my page?",
+  "Can I put Loom videos in Notion?"
+ ],
+ [
+  "How do I add an embed using slash commands?",
+  "How do I add a table of contents to my page?",
+  "Can I add mathematical equations in Notion?"
+ ],
+ [
+  "What are slash commands in Notion?",
+  "How do I mention someone or add a date?",
+  "What symbol do I use for mentions and dates?"
+ ],
+ [
+  "How do I tag someone in my workspace?",
+  "How do I set a reminder or timestamp?",
+  "How do I open the emoji picker in Notion?"
+ ],
+ [
+  "How do I turn off spell check in the Notion desktop app?",
+  "How do I turn spell check on in Notion?",
+  "Does Notion use my browser's spell check on the web?"
+ ],
+ [
+  "How do I turn spell check back on in Notion?",
+  "What are the basic ways to style text in Notion?",
+  "Where can I find text styling options in Notion?"
+ ],
+ [
+  "How do I open the editing menu for text in Notion?",
+  "How do I change the font style of a Notion page?",
+  "How do I make the text smaller in Notion?"
+ ],
+ [
+  "How do I turn on small text in Notion?",
+  "How do I make my page content wider in Notion?",
+  "Where is the full width setting in Notion?"
+ ],
+ [
+  "How do I select multiple blocks of content in Notion?",
+  "How do I copy and paste just a part of my text in Notion?",
+  "How do I select an entire content block using my keyboard?"
+ ],
+ [
+  "Does partial text selection work on Firefox?",
+  "Is Firefox supported for selecting partial text in Notion?",
+  "How can I check how many words are in a part of my page?"
+ ],
+ [
+  "How do I check the word count for just a section of a page?",
+  "How do I see the character count in Notion?",
+  "How does the word count update when I change my selection?"
+ ],
+ [
+  "How do I see the word count for a whole Notion page?",
+  "Can I drag and drop content blocks in Notion?",
+  "Can I move table rows and board cards by dragging them?"
+ ],
+ [
+  "How do I move a block to a different place?",
+  "How do I organize pages in the sidebar?",
+  "How do I know where a block will go when I drag it?"
+ ],
+ [
+  "How do I make text bold?",
+  "How do I add a strikethrough to text?",
+  "How do I write inline code?"
+ ],
+ [
+  "How do I make a bulleted list using shortcuts?",
+  "How do I create a to-do checkbox?",
+  "How do I make a heading using keyboard shortcuts?"
+ ],
+ [
+  "How do I get a teammate's attention on a page?",
+  "How do I add a comment to specific text?",
+  "What shortcut do I use to add a comment?"
+ ],
+ [
+  "Is editing on mobile different from desktop?",
+  "Where is the editing toolbar on mobile?",
+  "Can I use slash commands on mobile?"
+ ],
+ [
+  "How do I select text across multiple blocks on mobile?",
+  "How do I add new content blocks on mobile?",
+  "How do I tag someone on the mobile app?"
+ ],
+ [
+  "Where can I find the style and undo options?",
+  "How do I undo my last action on a page?",
+  "Can I change the default page style to full width?"
+ ],
+ [
+  "Can I center or right align text in Notion?",
+  "How do I align text to the right or left?",
+  "How do I get rid of the menu that pops up when I type a slash?"
+ ],
+ [
+  "How do I copy a whole block of text on a computer?",
+  "Can I select text from different paragraphs at the same time?",
+  "How do I select text across multiple blocks on my phone?"
+ ]
+]

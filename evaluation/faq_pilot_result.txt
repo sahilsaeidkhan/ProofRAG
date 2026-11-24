@@ -1,0 +1,10 @@
+old: gate score 0.14 (worst refusal in the v3 k=3 eval; threshold was 0.45) -> top1 faq 0.19 | faq in top3: True | chunk in top3: True | My teammate can see the doc I shared with her but she can't 
+old: gate score 0.15 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.36 | faq in top3: True | chunk in top3: False | Starting every page from a blank screen is slow. Is there re
+old: gate score 0.25 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.60 | faq in top3: True | chunk in top3: True | How do I switch between dark mode and light mode using the k
+old: gate score 0.28 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.36 | faq in top3: True | chunk in top3: False | We have an intern who only needs to see two specific pages a
+old: gate score 0.30 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.52 | faq in top3: True | chunk in top3: True | How many days do I have to request a full refund after signi
+old: gate score 0.30 (v3 k=3 eval; threshold was 0.45) -> top1 chunk 0.44 | faq in top3: True | chunk in top3: True | I'd like to see all my project tasks laid out on a calendar 
+old: gate score 0.31 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.60 | faq in top3: True | chunk in top3: True | Which shortcut duplicates the blocks I have selected?
+old: gate score 0.32 (v3 k=3 eval; threshold was 0.45) -> top1 chunk 0.35 | faq in top3: True | chunk in top3: True | What actions can I take from the menu of the handle icon nex
+old: gate score 0.33 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.50 | faq in top3: True | chunk in top3: False | Can Notion assign a task to someone automatically when its s
+old: gate score 0.33 (v3 k=3 eval; threshold was 0.45) -> top1 faq 0.68 | faq in top3: True | chunk in top3: True | Search keeps matching random words inside pages. I only want

@@ -1,0 +1,44 @@
+[ANSWERABLE] Where can I see and update my billing information? | score 0.37 | status answered
+   A: To see the details of your plan and your billing information:  1. Go to Settings in your sidebar. 2. Click Billing in the sidebar of the pop-up window. 3. At the top, you'll see which plan you're on, how much you're paying for it either yearly or monthly, and the date it will renew.
+[ANSWERABLE] How do I publish a page as a website? | score 0.43 | status refused_by_model
+   A: I don't have this information in the documents.
+[ANSWERABLE] I want to pay for a better plan, where do I do that? | score 0.34 | status answered
+   A: You can upgrade your plan using Notion for desktop or web by clicking Settings → Upgrade plan or Explore plans (depending on your plan) in your sidebar, and then selecting Upgrade under the plan you want to upgrade to.
+[UNANSWERABLE] Who is the CEO of Notion? | score 0.37 | status refused_by_model
+   A: I don't have this information in the documents.
+[UNANSWERABLE] When was Notion founded? | score 0.42 | status refused_by_model
+   A: I don't have this information in the documents.
+[UNANSWERABLE] Can I invest in Notion stock? | score 0.39 | status refused_by_model
+   A: I don't have this information in the documents.
+[ANSWERABLE] How many days do I have to request a full refund after signing up for  | score 0.30 | status answered
+   A: Within 30 days of signing up for annual billing.
+[ANSWERABLE] What are the Notion AI image generation limits per user? | score 0.42 | status answered
+   A: While in Beta, image generation has the following limits per user:  - 10 image generations or edits per 24 hours - 30 image generations or edits per 30 days
+[ANSWERABLE] Which shortcut duplicates the blocks I have selected? | score 0.31 | status escalated_failed_verification
+   A: I don't have this information in the documents.
+[ANSWERABLE] What happens when I mention someone on a page they do not have access  | score 0.35 | status answered
+   A: If you @-mention someone on a page that they don't have access to (like one of your private pages), they will not be notified.
+[ANSWERABLE] How do I delete one of the starter templates from my sidebar? | score 0.43 | status answered
+   A: To delete a template:  1. Click the ••• to the right of the page name. 2. Click Delete.
+[ANSWERABLE] What actions can I take from the menu of the handle icon next to a blo | score 0.32 | status answered
+   A: Based on the provided context, clicking the ⋮⋮ icon opens a menu of actions. Examples include:  - **Turn into:** Transforms the block into another type of block (like a bullet into a checkbox, or plain text into a heading), or into a page. - **Color:** Changes the block's color or gives it a backgro
+[ANSWERABLE] I downloaded my export as a ZIP file but Windows refuses to open it. W | score 0.38 | status answered
+   A: There are a couple ways to fix this problem:  - Option 1: When exporting, uncheck the option Create folders for subpages. This keeps all pages and files in a single folder, reducing the total path length. - Option 2: Use a tool like 7-Zip to extract the ZIP file. 7-Zip is more robust and can handle 
+[ANSWERABLE] Can Notion assign a task to someone automatically when its status chan | score 0.33 | status refused_by_model
+   A: I don't have this information in the documents.
+[ANSWERABLE] Search keeps matching random words inside pages. I only want it to mat | score 0.33 | status refused_by_model
+   A: I don't have this information in the documents.
+[ANSWERABLE] I'd like to see all my project tasks laid out on a calendar instead of | score 0.30 | status refused_by_model
+   A: I don't have this information in the documents.
+[ANSWERABLE] How do I stop anyone from changing a really important page by accident | score 0.38 | status answered
+   A: Turn on "Lock page" to prevent any edits from being made.
+[UNANSWERABLE] Who are the founders of Notion? | score 0.38 | status refused_by_model
+   A: I don't have this information in the documents.
+[UNANSWERABLE] Does Notion have a built-in video calling feature for meetings? | score 0.31 | status refused_by_model
+   A: I don't have this information in the documents.
+[UNANSWERABLE] How do I reset the password for my Notion account? | score 0.43 | status refused_by_model
+   A: I don't have this information in the documents.
+[UNANSWERABLE] Can I use Notion completely offline without an internet connection? | score 0.36 | status refused_by_model
+   A: I don't have this information in the documents.
+[UNANSWERABLE] How do I change the display language of the Notion app itself? | score 0.39 | status refused_by_model
+   A: I don't have this information in the documents.

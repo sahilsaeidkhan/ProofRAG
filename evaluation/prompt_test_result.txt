@@ -1,0 +1,64 @@
+Q1 [ANSWERABLE] How do I share a page with a guest? | status answered
+   A: To share a page with a guest, select Share at the top of the page, enter the email address of someone who isn't in your workspace, open the dropdown next to their name to select a permission level, and then select Invite.
+Q5 [ANSWERABLE] How do I import a CSV file into Notion? | status answered
+   A: To import a CSV file into Notion, you can use any of the following methods:  **Method 1 (Creating a new database or importing into an existing one):** 1. Go to Settings → Import → CSV (or type `/csv` in a page). 2. Upload your `.csv` file. 3. Choose whether to create a new database or import the dat
+Q10 [ANSWERABLE] How do I search for a page in Notion? | status answered
+   A: Based on the provided context, you can search for a page in Notion in the following ways:  * Use the **Search** feature to find a specific page or piece of content. * If your workspace has **Notion AI**, you can search using it by selecting "Search all sources with AI" underneath the search bar, cli
+Q12 [ANSWERABLE] How do I publish a page as a website? | status answered
+   A: To publish a page as a website, you can turn any page you build in Notion into a Notion Site with just a click. To share a page to the web, you can select "Share" at the top of the page and open the Publish tab.
+Q21 [UNANSWERABLE] Who is the CEO of Notion? | status refused_by_model
+   A: I don't have this information in the documents.
+Q22 [UNANSWERABLE] What is the weather in Delhi today? | status escalated_low_confidence
+   A: I don't have this information in the documents.
+Q23 [UNANSWERABLE] How do I use formulas in Excel? | status escalated_low_confidence
+   A: I don't have this information in the documents.
+Q24 [UNANSWERABLE] When was Notion founded? | status refused_by_model
+   A: I don't have this information in the documents.
+Q25 [UNANSWERABLE] Can I invest in Notion stock? | status refused_by_model
+   A: I don't have this information in the documents.
+Q40 [ANSWERABLE] Can I use a rollup on another rollup? | status answered
+   A: No, you cannot roll up a rollup because it could create unintended loops.
+Q41 [ANSWERABLE] What types of triggers can I use in a database automation? | status answered
+   A: Based on the provided context, the information about the specific types of triggers you can use is not mentioned (beyond stating that you can choose from three types). Therefore, I don't have this information in the documents.
+Q45 [ANSWERABLE] Can I set a reminder that repeats every week in Notion? | status answered
+   A: No, Notion does not have recurring reminders at the moment, though recurring tasks and reminders are on the roadmap.
+Q46 [ANSWERABLE] What options do I have for sorting search results in Notion? | status answered
+   A: When you search for something in Notion, you have the option to sort from inside the search window.
+Q48 [ANSWERABLE] Which shortcut duplicates the blocks I have selected? | status answered
+   A: To duplicate the blocks you have selected, you can press **cmd/ctrl + D**.
+Q59 [ANSWERABLE] What is the maximum number of properties a single database can have? | status answered
+   A: A single database can have up to 500 properties.
+Q65 [ANSWERABLE] Who is allowed to create integrations in a Notion workspace? | status refused_by_model
+   A: I don't have this information in the documents.
+Q67 [ANSWERABLE] Which calendar services can Notion Calendar sync with? | status answered
+   A: Based on the provided context, Notion Calendar can sync with Google Calendar and Apple iCloud.
+Q80 [ANSWERABLE] All my notes are in Word files on my laptop. Can I move them into Noti | status refused_by_model
+   A: I don't have this information in the documents.
+Q83 [ANSWERABLE] Can Notion assign a task to someone automatically when its status chan | status refused_by_model
+   A: I don't have this information in the documents.
+Q85 [ANSWERABLE] Search keeps matching random words inside pages. I only want it to mat | status answered
+   A: Yes, it is possible. The context states that there is a limitation where search is "Title only," meaning it shows results where your search term matches the title of a page, and any content inside of a page won't be considered. Additionally, searching in a database surfaces entries that contain your
+Q87 [ANSWERABLE] I'd like to see all my project tasks laid out on a calendar instead of | status refused_by_model
+   A: I don't have this information in the documents.
+Q91 [UNANSWERABLE] How much revenue did Notion earn last year? | status refused_by_model
+   A: I don't have this information in the documents.
+Q92 [UNANSWERABLE] Who are the founders of Notion? | status refused_by_model
+   A: I don't have this information in the documents.
+Q93 [UNANSWERABLE] What is the exact monthly price of the Notion Plus plan per user? | status refused_by_model
+   A: I don't have this information in the documents.
+Q94 [UNANSWERABLE] Can I pay for my Notion plan using PayPal? | status refused_by_model
+   A: I don't have this information in the documents.
+Q95 [UNANSWERABLE] How do I connect Notion with Microsoft Teams? | status refused_by_model
+   A: I don't have this information in the documents.
+Q96 [UNANSWERABLE] Does Notion have a built-in video calling feature for meetings? | status refused_by_model
+   A: I don't have this information in the documents.
+Q97 [UNANSWERABLE] How do I reset the password for my Notion account? | status refused_by_model
+   A: I don't have this information in the documents.
+Q98 [UNANSWERABLE] Which AI model does Notion AI use to answer questions? | status refused_by_model
+   A: I don't have this information in the documents.
+Q99 [UNANSWERABLE] Can I use Notion completely offline without an internet connection? | status refused_by_model
+   A: I don't have this information in the documents.
+Q100 [UNANSWERABLE] How do I change the display language of the Notion app itself? | status refused_by_model
+   A: I don't have this information in the documents.
+Q104 [ANSWERABLE] How can I set a remnder in Notion? | status refused_by_model
+   A: I don't have this information in the documents.

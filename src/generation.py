@@ -1,10 +1,33 @@
 from langchain_groq import ChatGroq
 
-from src.config import GROQ_API_KEY, LLM_MODEL
+from src.config import (
+    GROQ_API_KEY,
+    LLM_MODEL,
+    LLM_PROVIDER,
+    GEMINI_API_KEY,
+    GEMINI_MODEL,
+)
 
 REFUSAL_TEXT = "I don't have this information in the documents."
 
-llm = ChatGroq(model=LLM_MODEL, api_key=GROQ_API_KEY)
+if LLM_PROVIDER == "gemini":
+    from langchain_google_genai import ChatGoogleGenerativeAI
+    llm = ChatGoogleGenerativeAI(model=GEMINI_MODEL, google_api_key=GEMINI_API_KEY)
+else:
+    llm = ChatGroq(model=LLM_MODEL, api_key=GROQ_API_KEY)
+
+
+def _to_text(response):
+    content = response.content
+    if isinstance(content, str):
+        return content
+    parts = []
+    for block in content:
+        if isinstance(block, dict):
+            parts.append(block.get("text", ""))
+        else:
+            parts.append(getattr(block, "text", ""))
+    return "".join(parts)
 
 
 def build_context(docs):
@@ -17,7 +40,8 @@ def generate_answer(question, docs, strict=False):
     if strict:
         extra = "\nBe extra careful: use only facts written in the context. Do not add anything from your own knowledge."
     prompt = f"""Answer the question using ONLY the context below.
-If the answer is not in the context, say exactly: {REFUSAL_TEXT}{extra}
+The answer may be written in different words than the question, or spread across several parts of the context. Combine the pieces and answer in your own words.
+Refuse only if the information needed is not in the context at all. If you must refuse, say exactly: {REFUSAL_TEXT}{extra}
 
 Context:
 {context}
@@ -25,7 +49,7 @@ Context:
 Question: {question}
 
 Answer:"""
-    return llm.invoke(prompt).content
+    return _to_text(llm.invoke(prompt))
 
 
 def verify_answer(docs, answer):
@@ -39,7 +63,7 @@ Context:
 Answer: {answer}
 
 Verdict:"""
-    text = llm.invoke(prompt).content.strip().upper()
+    text = _to_text(llm.invoke(prompt)).strip().upper()
     return "NOT_SUPPORTED" not in text and "SUPPORTED" in text
 
 
@@ -55,4 +79,4 @@ def reformulate(question, style=0):
 Write only the rewritten question, nothing else.
 
 Question: {question}"""
-    return llm.invoke(prompt).content.strip()
+    return _to_text(llm.invoke(prompt)).strip()

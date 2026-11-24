@@ -1,0 +1,122 @@
+[
+  {
+    "golden_question": "My teammate can see the doc I shared with her but she can't change anything in it. How do I let her edit it?",
+    "expected_source": "sharing-and-permissions.md",
+    "score_note": "gate score 0.14 (worst refusal in the v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "- Can view: People with this level of access can read the content on the page, but they won't be able to comment, edit or share.\n\nNote: If someone has requested a change in their permissions on a page you own, you'll be able to see, approve and reject those requests from your Inbox.\n\nTo change someone's permission level for a specific page:\n\n1. Select Share at the top of a page.\n2. Open the dropdown next to the name of a person, group or teamspace with whom the page has been shared.\n3. Select a permission level.",
+    "faq_questions": [
+      "How do I change someone's permission level on a page I shared with them?",
+      "What does Can view access let someone do on a page?",
+      "A teammate asked for more access to a page I own. Where do I see and approve that request?",
+      "Where do I go to adjust the access level for a person, group, or teamspace on a page?"
+    ]
+  },
+  {
+    "golden_question": "Starting every page from a blank screen is slow. Is there ready-made content I can begin with?",
+    "expected_source": "start-with-a-template.md",
+    "score_note": "gate score 0.15 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "To help you take on a variety of challenges with Notion, we've created lots of templates that you can adopt and customize as your own — including some starter templates already in your workspace! Here's how to use them.\n\nWhen you first sign up for Notion, you'll see a collection of templates in your sidebar. These are selected for you based on what you tell us during onboarding. You can choose to add them to your workspace and use them, or you can delete them.",
+    "faq_questions": [
+      "Where do I find the starter templates that come with a new Notion workspace?",
+      "Can I start from a pre-made template instead of building every page from scratch?",
+      "How do I add one of the templates in my sidebar to my workspace and customise it?",
+      "Notion picked some starter templates for me during sign-up. Can I remove the ones I don't want?"
+    ]
+  },
+  {
+    "golden_question": "How do I switch between dark mode and light mode using the keyboard?",
+    "expected_source": "keyboard-shortcuts.md",
+    "score_note": "gate score 0.25 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "- Use cmd/ctrl + [ to go to back a page.\n- Use cmd/ctrl + ] to go forward a page.\n- Use ctrl + shift + K on Mac or ctrl + K on Windows while in database peek view to go to the previous database page.\n- Use ctrl + shift + J on Mac or ctrl + J on Windows while in database peek view to go to the next database page.\n- Use cmd/ctrl + shift + L to toggle between dark mode and light mode.\n- Use cmd/ctrl + N to create a new page.",
+    "faq_questions": [
+      "What is the keyboard shortcut for toggling between dark mode and light mode in Notion?",
+      "Is there a quick key combo to flip Notion's appearance from light to dark?",
+      "How do I create a new page using only the keyboard?",
+      "Which shortcut takes me back to the previous page I was viewing?"
+    ]
+  },
+  {
+    "golden_question": "We have an intern who only needs to see two specific pages and nothing else in the workspace. What's the best way to add her?",
+    "expected_source": "whos-who-in-a-workspace.md",
+    "score_note": "gate score 0.28 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "Guests are individuals external to your company or organization who you invite into your workspace on a page-by-page basis. For example, guests could be:\n\n- People who have a different organization email domain.\n- Clients who you want to provide feedback on your work.\n- Friends, family, or mentors that you want to have contribute to or review your work.\n\nGuests share many capabilities with members, except:\n\n- They can't be given workspace-wide access. They must be invited to individual pages in order to view them and their sub-pages.",
+    "faq_questions": [
+      "How do I invite someone to only specific pages instead of giving them the whole workspace?",
+      "What is a guest in Notion, and how is a guest different from a member?",
+      "Can a guest see every page in my workspace, or only the ones I invite them to?",
+      "I need a client to review one document without seeing everything else we have. What's the best way to add them?"
+    ]
+  },
+  {
+    "golden_question": "How many days do I have to request a full refund after signing up for annual billing?",
+    "expected_source": "change-your-plan.md",
+    "score_note": "gate score 0.30 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "How do refunds work?\n\nIf you believe you've made a mistake signing up for a paid Notion subscription online or in-app, you can request a refund. Message support for more help with this.\n\nWe'll be happy to refund you the full amount (not pro-rated) if you downgrade your subscription within three days of signing up for monthly billing, or within 30 days of signing up for annual billing.",
+    "faq_questions": [
+      "What is Notion's refund policy if I signed up for a paid plan by mistake?",
+      "Can I get a full refund if I change my mind shortly after starting an annual subscription?",
+      "How long do I have to ask for my money back on a monthly plan?",
+      "Who do I contact to request a refund for my Notion subscription?"
+    ]
+  },
+  {
+    "golden_question": "I'd like to see all my project tasks laid out on a calendar instead of a list. How do I do that?",
+    "expected_source": "database-views-filters-sorts.md",
+    "score_note": "gate score 0.30 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "- Timeline: Use your database to plot project milestones on a timeline so you can see when they're happening and how long they'll take to complete.\n- Calendar: Calendar view displays your items based on their Date property.\n- List: Lists are a very clean, minimal layout of your database items.\n- Gallery: This view is useful for highlighting images. You can edit your gallery to show images contained in the Files & media property — otherwise, the gallery will show any content that the database page contains.",
+    "faq_questions": [
+      "Which database view shows my items laid out on a calendar?",
+      "How does calendar view decide where each item appears?",
+      "What are the different layouts I can use to look at a database in Notion?",
+      "I want to see my deadlines visually by date. Which layout should I use for a task database?"
+    ]
+  },
+  {
+    "golden_question": "Which shortcut duplicates the blocks I have selected?",
+    "expected_source": "keyboard-shortcuts.md",
+    "score_note": "gate score 0.31 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "- Use cmd + shift + click on Mac, and alt + shift + click on Windows/Linux to select or de-select an entire block.\n- Use shift + click to select another block and all blocks in between.\n- Once you have blocks selected, the menu that appears shows the word count and the character count for your selection.\n- Press backspace or delete to delete selected blocks.\n- Press cmd/ctrl + D to duplicate the blocks you've selected.",
+    "faq_questions": [
+      "How do I make a copy of selected blocks with a keyboard shortcut?",
+      "What do I press to select several blocks at once in Notion?",
+      "Is there a quick way to delete all the blocks I've selected?",
+      "How can I see the word count of the blocks I have selected?"
+    ]
+  },
+  {
+    "golden_question": "What actions can I take from the menu of the handle icon next to a block?",
+    "expected_source": "writing-and-editing-basics.md",
+    "score_note": "gate score 0.32 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "Click and drag to move a block. Or click it to open a menu of actions. For example:\n  - Turn into: Transforms the block into another type of block (like a bullet into a checkbox, or plain text into a heading), or into a page.\n  - Color: Only appears for certain types of blocks to turn them into a different color or give them a background color — like text, files, and web bookmarks.\n  - Copy link to block: Copies the anchor link to this particular block.",
+    "faq_questions": [
+      "What does the dotted icon next to a block do when I click on it?",
+      "How do I change a block into a different type, like turning plain text into a heading?",
+      "Can I change the colour of a block or give it a background colour from the block menu?",
+      "How do I copy a link that points to one specific block on a page?"
+    ]
+  },
+  {
+    "golden_question": "Can Notion assign a task to someone automatically when its status changes?",
+    "expected_source": "database-automations.md",
+    "score_note": "gate score 0.33 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "Database automations are sequences of actions that happen any time a specific change to a database occurs. Automations consist of both triggers (the events that initiate the automation) and actions (the effect of the automation). Database automations are meant to help save you time and simplify your work, and can be very basic or more complex depending on your needs.\n\nDatabase automations can be used for many things, including:\n\n- Assigning a task to a specific person when its status changes.",
+    "faq_questions": [
+      "How can I automatically assign a task to a teammate when it moves to a new status?",
+      "What are database automations used for in Notion?",
+      "What's the difference between a trigger and an action in a database automation?",
+      "Can something happen on its own in my database whenever a page changes, without me doing it manually?"
+    ]
+  },
+  {
+    "golden_question": "Search keeps matching random words inside pages. I only want it to match page titles. Is that possible?",
+    "expected_source": "search-in-notion.md",
+    "score_note": "gate score 0.33 (v3 k=3 eval; threshold was 0.45)",
+    "passage_text": "You can filter by:\n\n- Title only: Shows results where your search term matches the title of a page. Any content inside of a page won't be considered.\n- Created by: Shows content created by one or more people in your workspace.\n- Teamspace: This filter is visible in Plus, Business or Enterprise Plan workspaces and shows results based on teamspaces that you have access to.\n- In: Shows content included in the pages you select. Subpages contained within your chosen pages will also be included.",
+    "faq_questions": [
+      "How do I filter search results so only page titles are matched?",
+      "What does the 'Title only' filter in Notion search actually do?",
+      "Can I narrow down search results to pages created by a specific person?",
+      "Is there a way to search only within a set of pages I pick?"
+    ]
+  }
+]
