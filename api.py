@@ -8,6 +8,7 @@ app = FastAPI(title="ProofRAG API")
 
 class AskRequest(BaseModel):
     question: str
+    thread_id: str = "default"
 
 
 @app.get("/health")
@@ -17,4 +18,4 @@ def health():
 
 @app.post("/ask")
 def ask(req: AskRequest):
-    return ask_graph(req.question)
+    return ask_graph(req.question, req.thread_id)
